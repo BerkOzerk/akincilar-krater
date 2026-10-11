@@ -33,3 +33,7 @@ crashlytics-build.properties
 /Run/
 /Akıncılar Site/
 /Akıncılar Krater/
+
+# Lisanssiz/GPL referans paketleri — repo disi
+/Pixel Art/SumoHulkBrawler_byEris/
+/Pixel Art/pixel-dungeon-master/
