@@ -5,6 +5,7 @@ using UnityEditor;
 
 public static class BuildScript
 {
+    [MenuItem("Tools/MapBuilder/Build WebGL")]
     public static void BuildWebGL()
     {
         var scenes = EditorBuildSettings.scenes
