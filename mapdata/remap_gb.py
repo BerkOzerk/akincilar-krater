@@ -106,7 +106,7 @@ def unity_json():
     json.dump(d, open(hedef, "w", encoding="utf-8"))
     print("OK ->", hedef)
 
-def main():
+def main(nosm=False, cikti=None):
     img = Image.open(SRC).convert("RGB")
     p = img.convert("P", palette=Image.Palette.ADAPTIVE, colors=256)
     pal = p.getpalette()
@@ -116,12 +116,20 @@ def main():
         yeni += list(HARITA.get(c, en_yakin(c)))
     p.putpalette(yeni)
     out = p.convert("RGB")
-    ciz_yollar(out)
-    out.save(DST)
+    if not nosm:
+        ciz_yollar(out)
+    hedef = cikti or DST
+    out.save(hedef)
     os.makedirs(PREVIEW, exist_ok=True)
     out.resize((1024, 804), Image.NEAREST).save(os.path.join(PREVIEW, "harita_zemin_gb_preview.png"))
-    print("OK ->", DST)
-    unity_json()
+    print("OK ->", hedef)
+    if not cikti:
+        unity_json()
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--no-osm", action="store_true", help="OSM yol katmanini cizme (sadece palet remap)")
+    ap.add_argument("--out", help="cikti dosyasi (varsayilan: uretim/harita_zemin_gb.png)")
+    a = ap.parse_args()
+    main(nosm=a.no_osm, cikti=a.out)
