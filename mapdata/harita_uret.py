@@ -123,13 +123,25 @@ def blok_halkalari(segs):
 
     bagli = []
     for comp in bilesenler:
+        # acik uclari yakinlikla eslestir (her blokta birden fazla kapi olabilir)
         acik = [u for u in comp if len(adj[u]) == 1]
-        if len(acik) == 2:
-            d = math.hypot(pos[acik[0]][0] - pos[acik[1]][0], pos[acik[0]][1] - pos[acik[1]][1])
-            if d <= GAP_KAPAT_M:
-                adj[acik[0]].add(acik[1])
-                adj[acik[1]].add(acik[0])
-                bagli.append(comp)
+        kullanildi = set()
+        for a in acik:
+            if a in kullanildi:
+                continue
+            en_yakin, en_d = None, GAP_KAPAT_M + 0.001
+            for b in acik:
+                if b == a or b in kullanildi:
+                    continue
+                d = math.hypot(pos[a][0] - pos[b][0], pos[a][1] - pos[b][1])
+                if d <= GAP_KAPAT_M and (en_yakin is None or d < en_d):
+                    en_yakin, en_d = b, d
+            if en_yakin is not None:
+                adj[a].add(en_yakin)
+                adj[en_yakin].add(a)
+                bagli.append((pos[a], pos[en_yakin], en_d))  # kapi: iki uc + genislik
+                kullanildi.add(a)
+                kullanildi.add(en_yakin)
 
     # her bileseni ayri ayri tara
     halkalar = []
@@ -180,7 +192,7 @@ def blok_halkalari(segs):
             if len(path) >= 4 and path[-1] == start:
                 halkalar.append([pos[i] for i in path[:-1]])
     # alan filtresi
-    return [pts for pts in halkalar if MIN_ALAN_M2 <= alan(pts) <= MAX_ALAN_M2]
+    return [pts for pts in halkalar if MIN_ALAN_M2 <= alan(pts) <= MAX_ALAN_M2], bagli
 
 
 def imar_alanlari(dxf, katmanlar):
@@ -209,7 +221,7 @@ def main():
 
     print("B_ADAKENARI segmentleri okunuyor...")
     segs = segmentler("1000_PLAN_TASLAK_AKINCILAR.dxf", "B_ADAKENARI")
-    halkalar = blok_halkalari(segs)
+    halkalar, kapilar = blok_halkalari(segs)
     a_list = sorted(alan(p) for p in halkalar)
     n = len(a_list)
     print(f"blok halkasi: {n} | alan: min {a_list[0]:.0f} medyan {a_list[n//2]:.0f} max {a_list[-1]:.0f} m2")
@@ -236,6 +248,23 @@ def main():
     s = args.max_px / max(w, h)
     pw, ph = int(round(w * s)), int(round(h * s))
     print(f"pencere: {w:.0f} x {h:.0f} m | PNG {pw}x{ph} ({s:.2f} px/m)")
+
+    # kapilar: kapatilan bosluklarin orta noktalari (halka iki ucunu da iceriyorsa)
+    kapi_list = []
+    for p1, p2, d in kapilar:
+        blok = next((i for i, ring in enumerate(halkalar) if p1 in ring and p2 in ring), None)
+        if blok is not None:
+            kapi_list.append({
+                "blok": blok,
+                "x_m": round((p1[0] + p2[0]) / 2 - minx, 3),
+                "y_m": round((p1[1] + p2[1]) / 2 - miny, 3),
+                "width_m": round(d, 2),
+            })
+    with open(os.path.join(args.out, "kapilar.json"), "w", encoding="utf-8") as f:
+        json.dump({"meta": {"gap_kapat_m": GAP_KAPAT_M, "birim": "m",
+                            "orijin_utm": {"x": round(minx + DX_KAY, 2), "y": round(miny + DY_KAY, 2), "bolge": "35N"}},
+                  "kapilar": kapi_list}, f, ensure_ascii=False, indent=1)
+    print(f"kapi: {len(kapi_list)}")
 
     def T(p):
         return (p[0] - minx) * s, (maxy - p[1]) * s
