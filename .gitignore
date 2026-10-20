@@ -37,3 +37,4 @@ crashlytics-build.properties
 # Lisanssiz/GPL referans paketleri — repo disi
 /Pixel Art/SumoHulkBrawler_byEris/
 /Pixel Art/pixel-dungeon-master/
+__pycache__/
