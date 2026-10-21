@@ -10,7 +10,8 @@
    "y_m": 472.68,
    "width_m": 1.0,
    "zone": "PL_KONUT_TICARET",
-   "baslik": "Konut + Ticaret"
+   "baslik": "Konut + Ticaret",
+   "isletmeler": []
   },
   {
    "blok": 4,
@@ -18,7 +19,8 @@
    "y_m": 149.58,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 6,
@@ -26,7 +28,8 @@
    "y_m": 498.48,
    "width_m": 1.0,
    "zone": "PL_KONUT_TICARET",
-   "baslik": "Konut + Ticaret"
+   "baslik": "Konut + Ticaret",
+   "isletmeler": []
   },
   {
    "blok": 7,
@@ -34,7 +37,8 @@
    "y_m": 475.68,
    "width_m": 1.0,
    "zone": "PL_KONUT_TICARET",
-   "baslik": "Konut + Ticaret"
+   "baslik": "Konut + Ticaret",
+   "isletmeler": []
   },
   {
    "blok": 9,
@@ -42,7 +46,8 @@
    "y_m": 243.08,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 10,
@@ -50,7 +55,8 @@
    "y_m": 184.48,
    "width_m": 1.0,
    "zone": "PL_KULTUREL_TESIS",
-   "baslik": "Kültürel Tesis"
+   "baslik": "Kültürel Tesis",
+   "isletmeler": []
   },
   {
    "blok": 12,
@@ -58,7 +64,10 @@
    "y_m": 284.78,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "On On Kafe",
+   "isletmeler": [
+    "On On Kafe"
+   ]
   },
   {
    "blok": 13,
@@ -66,7 +75,10 @@
    "y_m": 339.78,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Continental Balıkesir Merkez Lastik Bayi",
+   "isletmeler": [
+    "Continental Balıkesir Merkez Lastik Bayi"
+   ]
   },
   {
    "blok": 14,
@@ -74,7 +86,8 @@
    "y_m": 360.58,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 15,
@@ -82,7 +95,10 @@
    "y_m": 509.08,
    "width_m": 1.0,
    "zone": "PL_KONUT",
-   "baslik": "Konut Alanı"
+   "baslik": "Canan Eczanesi",
+   "isletmeler": [
+    "Canan Eczanesi"
+   ]
   },
   {
    "blok": 17,
@@ -90,7 +106,8 @@
    "y_m": 380.28,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 18,
@@ -98,7 +115,11 @@
    "y_m": 245.28,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "On On Kafe +1",
+   "isletmeler": [
+    "On On Kafe",
+    "Burger King"
+   ]
   },
   {
    "blok": 19,
@@ -106,7 +127,8 @@
    "y_m": 521.48,
    "width_m": 1.0,
    "zone": "PL_KONUT",
-   "baslik": "Konut Alanı"
+   "baslik": "Konut Alanı",
+   "isletmeler": []
   },
   {
    "blok": 20,
@@ -114,7 +136,10 @@
    "y_m": 555.98,
    "width_m": 1.0,
    "zone": "PL_KONUT",
-   "baslik": "Konut Alanı"
+   "baslik": "Özmen Şule Eczanesi",
+   "isletmeler": [
+    "Özmen Şule Eczanesi"
+   ]
   },
   {
    "blok": 21,
@@ -122,7 +147,8 @@
    "y_m": 286.18,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 22,
@@ -130,7 +156,8 @@
    "y_m": 269.98,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 24,
@@ -138,7 +165,8 @@
    "y_m": 544.98,
    "width_m": 1.0,
    "zone": "PL_KONUT_TICARET",
-   "baslik": "Konut + Ticaret"
+   "baslik": "Konut + Ticaret",
+   "isletmeler": []
   },
   {
    "blok": 25,
@@ -146,7 +174,8 @@
    "y_m": 530.58,
    "width_m": 1.0,
    "zone": "PL_KONUT_TICARET",
-   "baslik": "Konut + Ticaret"
+   "baslik": "Konut + Ticaret",
+   "isletmeler": []
   },
   {
    "blok": 27,
@@ -154,7 +183,8 @@
    "y_m": 313.28,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 28,
@@ -162,7 +192,8 @@
    "y_m": 540.38,
    "width_m": 1.0,
    "zone": "PL_KONUT_TICARET",
-   "baslik": "Konut + Ticaret"
+   "baslik": "Konut + Ticaret",
+   "isletmeler": []
   },
   {
    "blok": 29,
@@ -170,7 +201,8 @@
    "y_m": 533.48,
    "width_m": 1.0,
    "zone": "PL_KONUT",
-   "baslik": "Konut Alanı"
+   "baslik": "Konut Alanı",
+   "isletmeler": []
   },
   {
    "blok": 31,
@@ -178,7 +210,10 @@
    "y_m": 262.08,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Burger King",
+   "isletmeler": [
+    "Burger King"
+   ]
   },
   {
    "blok": 32,
@@ -186,7 +221,11 @@
    "y_m": 258.88,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Karesi Cafe +1",
+   "isletmeler": [
+    "Karesi Cafe",
+    "Burger King"
+   ]
   },
   {
    "blok": 33,
@@ -194,7 +233,10 @@
    "y_m": 251.28,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Karesi Cafe",
+   "isletmeler": [
+    "Karesi Cafe"
+   ]
   },
   {
    "blok": 34,
@@ -202,7 +244,8 @@
    "y_m": 247.38,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 35,
@@ -210,7 +253,10 @@
    "y_m": 254.38,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Karesi Cafe",
+   "isletmeler": [
+    "Karesi Cafe"
+   ]
   },
   {
    "blok": 36,
@@ -218,7 +264,8 @@
    "y_m": 247.38,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 38,
@@ -226,7 +273,10 @@
    "y_m": 333.58,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Continental Balıkesir Merkez Lastik Bayi",
+   "isletmeler": [
+    "Continental Balıkesir Merkez Lastik Bayi"
+   ]
   },
   {
    "blok": 39,
@@ -234,7 +284,8 @@
    "y_m": 490.58,
    "width_m": 1.0,
    "zone": "PL_KONUT_TICARET",
-   "baslik": "Konut + Ticaret"
+   "baslik": "Konut + Ticaret",
+   "isletmeler": []
   },
   {
    "blok": 41,
@@ -242,7 +293,8 @@
    "y_m": 329.58,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 42,
@@ -250,7 +302,8 @@
    "y_m": 490.48,
    "width_m": 1.0,
    "zone": "PL_KONUT_TICARET",
-   "baslik": "Konut + Ticaret"
+   "baslik": "Konut + Ticaret",
+   "isletmeler": []
   },
   {
    "blok": 43,
@@ -258,7 +311,8 @@
    "y_m": 325.48,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 44,
@@ -266,7 +320,8 @@
    "y_m": 509.88,
    "width_m": 1.0,
    "zone": "PL_KONUT_TICARET",
-   "baslik": "Konut + Ticaret"
+   "baslik": "Konut + Ticaret",
+   "isletmeler": []
   },
   {
    "blok": 45,
@@ -274,7 +329,8 @@
    "y_m": 320.28,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 47,
@@ -282,7 +338,8 @@
    "y_m": 317.18,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "Ticaret Alanı",
+   "isletmeler": []
   },
   {
    "blok": 49,
@@ -290,7 +347,10 @@
    "y_m": 291.78,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Ticaret Alanı"
+   "baslik": "On On Kafe",
+   "isletmeler": [
+    "On On Kafe"
+   ]
   },
   {
    "blok": 51,
@@ -298,7 +358,10 @@
    "y_m": 430.48,
    "width_m": 1.0,
    "zone": "PL_RESMI_KURUM",
-   "baslik": "Resmi Kurum"
+   "baslik": "Kösem Tekel",
+   "isletmeler": [
+    "Kösem Tekel"
+   ]
   },
   {
    "blok": 54,
@@ -306,7 +369,10 @@
    "y_m": 569.28,
    "width_m": 1.0,
    "zone": "PL_KONUT",
-   "baslik": "Konut Alanı"
+   "baslik": "Manolya Çiçekçi",
+   "isletmeler": [
+    "Manolya Çiçekçi"
+   ]
   },
   {
    "blok": 55,
@@ -314,7 +380,8 @@
    "y_m": 556.68,
    "width_m": 1.0,
    "zone": "PL_CAMI",
-   "baslik": "Cami"
+   "baslik": "Cami",
+   "isletmeler": []
   },
   {
    "blok": 57,
@@ -322,7 +389,8 @@
    "y_m": 497.18,
    "width_m": 1.0,
    "zone": "PL_KONUT_TICARET",
-   "baslik": "Konut + Ticaret"
+   "baslik": "Konut + Ticaret",
+   "isletmeler": []
   },
   {
    "blok": 64,
@@ -330,7 +398,8 @@
    "y_m": 324.68,
    "width_m": 1.0,
    "zone": "PL_TRAFO_ALANI",
-   "baslik": "Trafo"
+   "baslik": "Trafo",
+   "isletmeler": []
   },
   {
    "blok": 65,
@@ -338,7 +407,8 @@
    "y_m": 546.98,
    "width_m": 1.0,
    "zone": "PL_TRAFO_ALANI",
-   "baslik": "Trafo"
+   "baslik": "Trafo",
+   "isletmeler": []
   }
  ]
 }

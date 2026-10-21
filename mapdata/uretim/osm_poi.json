@@ -1,0 +1,4899 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-21T16:14:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2558294572,
+  "lat": 39.6446271,
+  "lon": 27.8827236,
+  "tags": {
+    "amenity": "parking",
+    "fee": "yes",
+    "supervised": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3054328463,
+  "lat": 39.6457948,
+  "lon": 27.8812961,
+  "tags": {
+    "name": "Necati Gün Gümüşçülük",
+    "shop": "jewelry",
+    "website": "https://www.necatigun.com.tr/"
+  }
+},
+{
+  "type": "node",
+  "id": 3721517770,
+  "lat": 39.6475750,
+  "lon": 27.8832277,
+  "tags": {
+    "addr:housename": "Vakıfbank",
+    "amenity": "bank",
+    "atm": "yes",
+    "brand": "Vakıfbank",
+    "brand:wikidata": "Q1148521",
+    "brand:wikipedia": "en:VakıfBank",
+    "name": "Vakıfbank"
+  }
+},
+{
+  "type": "node",
+  "id": 4359016714,
+  "lat": 39.6476486,
+  "lon": 27.8814844,
+  "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "brand": "Yapı Kredi",
+    "brand:wikidata": "Q8049138",
+    "brand:wikipedia": "en:Yapı ve Kredi Bankası",
+    "name": "Yapı Kredi",
+    "name:tr": "Yapıkredi"
+  }
+},
+{
+  "type": "node",
+  "id": 4359051295,
+  "lat": 39.6480832,
+  "lon": 27.8811561,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Türkiye İş Bankası",
+    "brand:wikidata": "Q909613",
+    "brand:wikipedia": "en:Türkiye İş Bankası",
+    "name": "Türkiye İş Bankası",
+    "name:tr": "İş Bankası"
+  }
+},
+{
+  "type": "node",
+  "id": 4359076701,
+  "lat": 39.6482959,
+  "lon": 27.8815181,
+  "tags": {
+    "brand": "LC Waikiki",
+    "brand:wikidata": "Q3205965",
+    "brand:wikipedia": "fr:LC Waikiki",
+    "name": "LC Waikiki",
+    "name:tr": "LC Waikiki",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 4359100292,
+  "lat": 39.6464147,
+  "lon": 27.8819329,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:housenumber": "19",
+    "addr:neighbourhood": "Eski Kuyumcular Mahallesi",
+    "addr:street": "Atalar Caddesi",
+    "name": "Tivoli Kitabevi",
+    "name:tr": "Tivoli Kitabevi",
+    "opening_hours": "Mo-Su 08:30-22:30",
+    "phone": "+90 266 239 59 39",
+    "shop": "books",
+    "website": "http://www.kitapcitivoli.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4686944366,
+  "lat": 39.6493495,
+  "lon": 27.8881325,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:country": "TR",
+    "addr:district": "Karesi",
+    "addr:housenumber": "24",
+    "addr:neighbourhood": "Akıncılar Mahallesi",
+    "addr:postcode": "10010",
+    "addr:street": "Yalkır Cadddesi",
+    "name": "Continental Balıkesir Merkez Lastik Bayi",
+    "operator": "Karahallılar Otomotiv",
+    "phone": "+90 266 245 55 00",
+    "shop": "tyres",
+    "source": "Yellow Pages Türkiye",
+    "website": "http://www.karahallilar-continental-lastikleri.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4849125797,
+  "lat": 39.6528378,
+  "lon": 27.8921585,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Acar Eczanesi",
+    "phone": "+90 266 244 4497"
+  }
+},
+{
+  "type": "node",
+  "id": 4849125798,
+  "lat": 39.6527222,
+  "lon": 27.8921900,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Gökben Eczanesi",
+    "phone": "+90 266 249 8100"
+  }
+},
+{
+  "type": "node",
+  "id": 4849125799,
+  "lat": 39.6524902,
+  "lon": 27.8922284,
+  "tags": {
+    "brand": "Şok",
+    "brand:wikidata": "Q19613992",
+    "brand:wikipedia": "tr:Şok (market)",
+    "name": "Şok",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 4849125822,
+  "lat": 39.6520701,
+  "lon": 27.8923014,
+  "tags": {
+    "brand": "A101",
+    "brand:wikidata": "Q6034496",
+    "brand:wikipedia": "tr:A101",
+    "name": "A101",
+    "opening_hours": "Mo-Su 09:00-21:30",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 4849125829,
+  "lat": 39.6524924,
+  "lon": 27.8925545,
+  "tags": {
+    "name": "Tuğra Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 4849125830,
+  "lat": 39.6525633,
+  "lon": 27.8925279,
+  "tags": {
+    "name": "Sancak Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 4849125831,
+  "lat": 39.6528807,
+  "lon": 27.8924695,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Vatan Eczanesi",
+    "phone": "+90 266 241 0962"
+  }
+},
+{
+  "type": "node",
+  "id": 4861897374,
+  "lat": 39.6515327,
+  "lon": 27.8916667,
+  "tags": {
+    "addr:city": "Balikesir",
+    "addr:district": "Merkez",
+    "addr:housenumber": "24",
+    "addr:neighbourhood": "Atatürk Mahallesi / Eski Bandırma Caddesi",
+    "addr:postcode": "10020",
+    "addr:street": "Eski Bandırma Caddesi",
+    "brand": "KTM",
+    "brand:wikidata": "Q215657",
+    "name": "Deniz Motosiklet",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4975266769,
+  "lat": 39.6477273,
+  "lon": 27.8836365,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Garanti Bankası",
+    "brand:wikidata": "Q322962",
+    "name": "Garanti Bankası",
+    "operator": "Garanti Bankası",
+    "operator:wikidata": "Q322962"
+  }
+},
+{
+  "type": "node",
+  "id": 4975266770,
+  "lat": 39.6476409,
+  "lon": 27.8828957,
+  "tags": {
+    "brand": "DeFacto",
+    "brand:wikidata": "Q6059861",
+    "name": "DeFacto",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 5119209693,
+  "lat": 39.6479766,
+  "lon": 27.8881238,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "Burger King",
+    "brand:wikidata": "Q177054",
+    "brand:wikipedia": "en:Burger King",
+    "cuisine": "burger",
+    "name": "Burger King",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5164999576,
+  "lat": 39.6513803,
+  "lon": 27.8833274,
+  "tags": {
+    "amenity": "taxi",
+    "name": "Körfez Taksi",
+    "phone": "+90 543 837 75 58"
+  }
+},
+{
+  "type": "node",
+  "id": 5164999615,
+  "lat": 39.6450819,
+  "lon": 27.8798733,
+  "tags": {
+    "amenity": "taxi",
+    "name": "Aydın Taksi"
+  }
+},
+{
+  "type": "node",
+  "id": 5165000026,
+  "lat": 39.6454908,
+  "lon": 27.8786936,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Dedebaş Eczanesi",
+    "phone": "+90 266 243 0507"
+  }
+},
+{
+  "type": "node",
+  "id": 5165000027,
+  "lat": 39.6455850,
+  "lon": 27.8787792,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Aytekin Eczanesi",
+    "phone": "+90 266 244 4201"
+  }
+},
+{
+  "type": "node",
+  "id": 5165000045,
+  "lat": 39.6475471,
+  "lon": 27.8780480,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pazar Yeri"
+  }
+},
+{
+  "type": "node",
+  "id": 5203564146,
+  "lat": 39.6468904,
+  "lon": 27.8878084,
+  "tags": {
+    "amenity": "taxi"
+  }
+},
+{
+  "type": "node",
+  "id": 5225455977,
+  "lat": 39.6523081,
+  "lon": 27.8787518,
+  "tags": {
+    "brand": "Şok",
+    "brand:wikidata": "Q19613992",
+    "brand:wikipedia": "tr:Şok (market)",
+    "name": "Şok",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 5228331322,
+  "lat": 39.6536011,
+  "lon": 27.8983381,
+  "tags": {
+    "brand": "Şok",
+    "brand:wikidata": "Q19613992",
+    "brand:wikipedia": "tr:Şok (market)",
+    "name": "Şok",
+    "name:ar": "مول",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 5338060002,
+  "lat": 39.6479581,
+  "lon": 27.8815880,
+  "tags": {
+    "amenity": "bureau_de_change",
+    "name": "Yavaşcalar Döviz"
+  }
+},
+{
+  "type": "node",
+  "id": 5372046498,
+  "lat": 39.6527842,
+  "lon": 27.8839696,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5372046499,
+  "lat": 39.6527150,
+  "lon": 27.8839246,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5372046500,
+  "lat": 39.6526644,
+  "lon": 27.8839199,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5372046501,
+  "lat": 39.6527021,
+  "lon": 27.8840400,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5372046545,
+  "lat": 39.6531308,
+  "lon": 27.8923371,
+  "tags": {
+    "amenity": "atm",
+    "brand": "TEB",
+    "brand:wikidata": "Q7862447",
+    "operator": "TEB",
+    "operator:wikidata": "Q7862447"
+  }
+},
+{
+  "type": "node",
+  "id": 5372046546,
+  "lat": 39.6531298,
+  "lon": 27.8923806,
+  "tags": {
+    "amenity": "atm",
+    "brand": "QNB",
+    "brand:wikidata": "Q1136759",
+    "operator": "QNB",
+    "operator:wikidata": "Q1136759"
+  }
+},
+{
+  "type": "node",
+  "id": 5372046547,
+  "lat": 39.6531303,
+  "lon": 27.8924256,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Ziraat Bankası",
+    "brand:wikidata": "Q696003",
+    "operator": "Ziraat Bankası",
+    "operator:wikidata": "Q696003"
+  }
+},
+{
+  "type": "node",
+  "id": 5412071950,
+  "lat": 39.6476704,
+  "lon": 27.8866054,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5412071951,
+  "lat": 39.6476146,
+  "lon": 27.8866329,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5412071952,
+  "lat": 39.6475655,
+  "lon": 27.8866678,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5412071959,
+  "lat": 39.6477149,
+  "lon": 27.8864710,
+  "tags": {
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 5504539285,
+  "lat": 39.6482025,
+  "lon": 27.8823543,
+  "tags": {
+    "amenity": "water_point"
+  }
+},
+{
+  "type": "node",
+  "id": 5504545399,
+  "lat": 39.6446985,
+  "lon": 27.8868035,
+  "tags": {
+    "amenity": "fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 5504545400,
+  "lat": 39.6444270,
+  "lon": 27.8872223,
+  "tags": {
+    "amenity": "fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 5513789076,
+  "lat": 39.6459017,
+  "lon": 27.8799051,
+  "tags": {
+    "amenity": "water_point"
+  }
+},
+{
+  "type": "node",
+  "id": 5513813318,
+  "lat": 39.6517020,
+  "lon": 27.8798061,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5513813319,
+  "lat": 39.6518777,
+  "lon": 27.8781816,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5513813320,
+  "lat": 39.6518587,
+  "lon": 27.8783957,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5515682462,
+  "lat": 39.6549889,
+  "lon": 27.9010556,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:housenumber": "2",
+    "addr:neighbourhood": "Atatürk Mahallesi",
+    "addr:street": "Bandırma Caddesi",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Kahvecizade",
+    "phone": "+90 850 303 07 68"
+  }
+},
+{
+  "type": "node",
+  "id": 5515716367,
+  "lat": 39.6509069,
+  "lon": 27.8923758,
+  "tags": {
+    "email": "info@motohan.com.tr",
+    "name": "Motohan",
+    "payment:cash": "yes",
+    "phone": "+90 266 239 46 44",
+    "shop": "motorcycle",
+    "website": "https://motohan.com.tr/"
+  }
+},
+{
+  "type": "node",
+  "id": 5515716371,
+  "lat": 39.6507375,
+  "lon": 27.8923423,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5515716373,
+  "lat": 39.6509152,
+  "lon": 27.8927775,
+  "tags": {
+    "amenity": "water_point",
+    "name": "2. Kolordu Çeşmesi"
+  }
+},
+{
+  "type": "node",
+  "id": 5526989595,
+  "lat": 39.6544296,
+  "lon": 27.8953189,
+  "tags": {
+    "amenity": "water_point"
+  }
+},
+{
+  "type": "node",
+  "id": 5529872458,
+  "lat": 39.6479633,
+  "lon": 27.8815175,
+  "tags": {
+    "name": "Ulus Kuyumcu",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 5542763123,
+  "lat": 39.6493123,
+  "lon": 27.8926065,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5542763124,
+  "lat": 39.6492423,
+  "lon": 27.8924679,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5542763125,
+  "lat": 39.6491729,
+  "lon": 27.8923347,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5542763126,
+  "lat": 39.6490220,
+  "lon": 27.8920498,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5542763127,
+  "lat": 39.6488782,
+  "lon": 27.8917614,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5542763128,
+  "lat": 39.6488661,
+  "lon": 27.8917421,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5542763129,
+  "lat": 39.6487274,
+  "lon": 27.8914749,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5542763130,
+  "lat": 39.6487177,
+  "lon": 27.8914524,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5542763131,
+  "lat": 39.6485768,
+  "lon": 27.8911887,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5542763132,
+  "lat": 39.6485642,
+  "lon": 27.8911601,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5542763133,
+  "lat": 39.6484250,
+  "lon": 27.8908949,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5542763134,
+  "lat": 39.6484149,
+  "lon": 27.8908721,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5544522929,
+  "lat": 39.6523652,
+  "lon": 27.8964586,
+  "tags": {
+    "amenity": "water_point"
+  }
+},
+{
+  "type": "node",
+  "id": 5550074416,
+  "lat": 39.6516838,
+  "lon": 27.8801150,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5550074418,
+  "lat": 39.6516562,
+  "lon": 27.8804642,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5604643161,
+  "lat": 39.6464394,
+  "lon": 27.8819355,
+  "tags": {
+    "name": "Yücel Telekom",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 5604643162,
+  "lat": 39.6466063,
+  "lon": 27.8819604,
+  "tags": {
+    "name": "Karesi Et",
+    "shop": "butcher"
+  }
+},
+{
+  "type": "node",
+  "id": 5604643163,
+  "lat": 39.6465669,
+  "lon": 27.8817576,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Kuveyt Türk",
+    "brand:wikidata": "Q6036058",
+    "brand:wikipedia": "tr:Kuveyt Türk",
+    "name": "Kuveyt Türk"
+  }
+},
+{
+  "type": "node",
+  "id": 5604643167,
+  "lat": 39.6467780,
+  "lon": 27.8817308,
+  "tags": {
+    "brand": "Turkcell",
+    "brand:wikidata": "Q283852",
+    "brand:wikipedia": "en:Turkcell",
+    "name": "Turkcell",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 5604643179,
+  "lat": 39.6469762,
+  "lon": 27.8819245,
+  "tags": {
+    "brand": "Vodafone",
+    "brand:wikidata": "Q122141",
+    "brand:wikipedia": "en:Vodafone",
+    "name": "Vodafone",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 5604643180,
+  "lat": 39.6468189,
+  "lon": 27.8820248,
+  "tags": {
+    "name": "Paşa Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5606341932,
+  "lat": 39.6529684,
+  "lon": 27.8849655,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5606341933,
+  "lat": 39.6527850,
+  "lon": 27.8856403,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5606341934,
+  "lat": 39.6529953,
+  "lon": 27.8859556,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5606341935,
+  "lat": 39.6532740,
+  "lon": 27.8851010,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5608546999,
+  "lat": 39.6489721,
+  "lon": 27.8843659,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:housenumber": "17",
+    "addr:neighbourhood": "Yıldırım Mahallesi",
+    "addr:street": "Paşa Sarayı Sokağı",
+    "amenity": "school",
+    "email": "balikesir_fbm@hotmail.com",
+    "name": "Fen Bilimleri Temel Lisesi Balıkesir",
+    "phone": "+90 266 244 38 80",
+    "website": "http://www.fenbilimleri.com/Balikesir"
+  }
+},
+{
+  "type": "node",
+  "id": 5608547007,
+  "lat": 39.6495931,
+  "lon": 27.8842340,
+  "tags": {
+    "name": "İbrahim Terzi",
+    "phone": "+90 266 245 25 01",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 5608547013,
+  "lat": 39.6497768,
+  "lon": 27.8840192,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:neighbourhood": "Yıldırım Mahallesi",
+    "name": "Ecem Dikimevi",
+    "opening_hours": "Mo-Su 08:00-19:00",
+    "phone": "+90 266 243 34 49",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 5608547015,
+  "lat": 39.6480672,
+  "lon": 27.8841316,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:housenumber": "40",
+    "addr:neighbourhood": "Yıldırım Mahallesi",
+    "addr:postcode": "10010",
+    "addr:street": "Çiviciler Sokağı",
+    "name": "İşler Kitabevleri",
+    "opening_hours": "Mo-Su 09:00-20:00",
+    "phone": "+90 266 244 13 85",
+    "shop": "books",
+    "website": "https://www.isler.com.tr/"
+  }
+},
+{
+  "type": "node",
+  "id": 5609075444,
+  "lat": 39.6476270,
+  "lon": 27.8863070,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5616498956,
+  "lat": 39.6448485,
+  "lon": 27.8893330,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Türkiye İş Bankası",
+    "brand:wikidata": "Q909613",
+    "operator": "Türkiye İş Bankası",
+    "operator:wikidata": "Q909613",
+    "phone": "+90 850 724 07 24",
+    "website": "https://www.isbank.com.tr"
+  }
+},
+{
+  "type": "node",
+  "id": 5616674319,
+  "lat": 39.6443486,
+  "lon": 27.8900776,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Altıeylül",
+    "addr:housenumber": "60",
+    "addr:neighbourhood": "Gümüşçeşme Mahallesi",
+    "addr:street": "2. Çimen Sokak",
+    "amenity": "social_facility",
+    "phone": "+90 266 249 04 02",
+    "social_facility": "food_bank",
+    "website": "https://www.balikesirmusbetvemaneviilimlervakfi.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5621292114,
+  "lat": 39.6441218,
+  "lon": 27.8810775,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5621292139,
+  "lat": 39.6479979,
+  "lon": 27.8789265,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5621292140,
+  "lat": 39.6478263,
+  "lon": 27.8786473,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5621519686,
+  "lat": 39.6477403,
+  "lon": 27.8789806,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:housenumber": "26",
+    "addr:neighbourhood": "Karaoğlan Mahallesi",
+    "addr:postcode": "10020",
+    "addr:street": "Balıkavdan Sokağı",
+    "name": "Üngün Güvenlik",
+    "phone": "+90 532 437 43 37",
+    "shop": "locksmith",
+    "website": "balikesiranahtarci.on.name.tr"
+  }
+},
+{
+  "type": "node",
+  "id": 5621519687,
+  "lat": 39.6486593,
+  "lon": 27.8790440,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:housenumber": "10",
+    "addr:neighbourhood": "Karaoğlan Mahallesi",
+    "addr:postcode": "10010",
+    "addr:street": "Gedik Sokağı",
+    "contact:phone": "+90 266 239 15 65",
+    "name": "Cihan Et",
+    "shop": "butcher"
+  }
+},
+{
+  "type": "node",
+  "id": 5621519688,
+  "lat": 39.6493960,
+  "lon": 27.8788596,
+  "tags": {
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Aslı Emek"
+  }
+},
+{
+  "type": "node",
+  "id": 5624254197,
+  "lat": 39.6457795,
+  "lon": 27.8845210,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5624255268,
+  "lat": 39.6483917,
+  "lon": 27.8850360,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5624255299,
+  "lat": 39.6496460,
+  "lon": 27.8823300,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5624418479,
+  "lat": 39.6448154,
+  "lon": 27.8822344,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5626135899,
+  "lat": 39.6502928,
+  "lon": 27.8838686,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:housenumber": "2",
+    "addr:neighbourhood": "Yıldırım Mahallesi",
+    "addr:postcode": "10010",
+    "addr:street": "Gazi Bulvarı",
+    "amenity": "school",
+    "fax": "+90 266 245 09 72",
+    "name": "Gazi İmam Hatip Ortaokulu",
+    "phone": "+90 266 241 18 35",
+    "website": "https://balikesirgaziimamhatip.meb.k12.tr/"
+  }
+},
+{
+  "type": "node",
+  "id": 5674246946,
+  "lat": 39.6541649,
+  "lon": 27.8838323,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Yaşam Eczanesi",
+    "phone": "+90 266 243 7300"
+  }
+},
+{
+  "type": "node",
+  "id": 5733560731,
+  "lat": 39.6471450,
+  "lon": 27.8794610,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5733560732,
+  "lat": 39.6468805,
+  "lon": 27.8801460,
+  "tags": {
+    "amenity": "parking",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5733560733,
+  "lat": 39.6469447,
+  "lon": 27.8794894,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5733560743,
+  "lat": 39.6486747,
+  "lon": 27.8781475,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5735996357,
+  "lat": 39.6521605,
+  "lon": 27.8827856,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5735996358,
+  "lat": 39.6522482,
+  "lon": 27.8826047,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5735996359,
+  "lat": 39.6535047,
+  "lon": 27.8823840,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5735996360,
+  "lat": 39.6533942,
+  "lon": 27.8823639,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5735996361,
+  "lat": 39.6530955,
+  "lon": 27.8789622,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5735996750,
+  "lat": 39.6514569,
+  "lon": 27.8876138,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5741448786,
+  "lat": 39.6504912,
+  "lon": 27.8784162,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5748509127,
+  "lat": 39.6491654,
+  "lon": 27.8810131,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Hasanbaba Çarşısı"
+  }
+},
+{
+  "type": "node",
+  "id": 5756295310,
+  "lat": 39.6506042,
+  "lon": 27.8842479,
+  "tags": {
+    "amenity": "atm"
+  }
+},
+{
+  "type": "node",
+  "id": 5756295311,
+  "lat": 39.6506219,
+  "lon": 27.8842187,
+  "tags": {
+    "amenity": "atm"
+  }
+},
+{
+  "type": "node",
+  "id": 5756295312,
+  "lat": 39.6509050,
+  "lon": 27.8840273,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5756295315,
+  "lat": 39.6503590,
+  "lon": 27.8844595,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5756298833,
+  "lat": 39.6496271,
+  "lon": 27.8853772,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5756298834,
+  "lat": 39.6496568,
+  "lon": 27.8854834,
+  "tags": {
+    "name": "Kösem Tekel",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 5756298835,
+  "lat": 39.6487062,
+  "lon": 27.8861736,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Ziraat Bankası",
+    "brand:wikidata": "Q696003",
+    "brand:wikipedia": "en:Ziraat Bankası",
+    "name": "Ziraat Bankası",
+    "opening_hours": "Mo-Fr 09:00-12:30,13:30-17:00; Sa-Su off; PH off; PH eve 09:00-12:30",
+    "website": "https://www.ziraatbank.com.tr/"
+  }
+},
+{
+  "type": "node",
+  "id": 5756340820,
+  "lat": 39.6487291,
+  "lon": 27.8891799,
+  "tags": {
+    "amenity": "taxi"
+  }
+},
+{
+  "type": "node",
+  "id": 5765238139,
+  "lat": 39.6525181,
+  "lon": 27.8784504,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5765311831,
+  "lat": 39.6527980,
+  "lon": 27.8813936,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5768285442,
+  "lat": 39.6527391,
+  "lon": 27.9015426,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Altıeylül",
+    "addr:housenumber": "4-25",
+    "addr:neighbourhood": "Güöüşçeşme Mahallesi",
+    "addr:postcode": "10040",
+    "addr:street": "Avlu Caddesi",
+    "amenity": "concert_hall",
+    "building": "yes",
+    "name": "Dorock XL Balıkesir",
+    "phone": "+90 266 245 45 45"
+  }
+},
+{
+  "type": "node",
+  "id": 5817200578,
+  "lat": 39.6534646,
+  "lon": 27.8988427,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5834231232,
+  "lat": 39.6540971,
+  "lon": 27.8868047,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5834231233,
+  "lat": 39.6542486,
+  "lon": 27.8868300,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5834231234,
+  "lat": 39.6543801,
+  "lon": 27.8868565,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5834231235,
+  "lat": 39.6545209,
+  "lon": 27.8868971,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5834231236,
+  "lat": 39.6546469,
+  "lon": 27.8869327,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5880470515,
+  "lat": 39.6523064,
+  "lon": 27.9006454,
+  "tags": {
+    "name": "Balıkesir Avlu AVM",
+    "shop": "mall"
+  }
+},
+{
+  "type": "node",
+  "id": 5882068058,
+  "lat": 39.6490668,
+  "lon": 27.8822858,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5882068755,
+  "lat": 39.6445823,
+  "lon": 27.8790522,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5886937356,
+  "lat": 39.6515025,
+  "lon": 27.8999120,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Starbucks",
+    "brand:wikidata": "Q37158",
+    "brand:wikipedia": "en:Starbucks",
+    "cuisine": "coffee_shop",
+    "name": "Starbucks",
+    "official_name": "Starbucks Coffee",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5886937372,
+  "lat": 39.6515270,
+  "lon": 27.8915270,
+  "tags": {
+    "name": "Joker Motor",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 5895566615,
+  "lat": 39.6516564,
+  "lon": 27.8846953,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5895566616,
+  "lat": 39.6529650,
+  "lon": 27.8880067,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5898537487,
+  "lat": 39.6515127,
+  "lon": 27.8899760,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5898537488,
+  "lat": 39.6513937,
+  "lon": 27.8900278,
+  "tags": {
+    "name": "Manolya Çiçekçi",
+    "phone": "+90 541 398 27 58",
+    "shop": "florist"
+  }
+},
+{
+  "type": "node",
+  "id": 5898537514,
+  "lat": 39.6515486,
+  "lon": 27.8899894,
+  "tags": {
+    "name": "Yaman Motor",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 5898537517,
+  "lat": 39.6515829,
+  "lon": 27.8904133,
+  "tags": {
+    "name": "Efe Motor",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 5898537531,
+  "lat": 39.6514442,
+  "lon": 27.8907271,
+  "tags": {
+    "name": "Gülenç Motor",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 5898537532,
+  "lat": 39.6514536,
+  "lon": 27.8908138,
+  "tags": {
+    "name": "Eymen Tekel Shop",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 5898537540,
+  "lat": 39.6516227,
+  "lon": 27.8912434,
+  "tags": {
+    "name": "Günay Motor",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 5898537597,
+  "lat": 39.6519470,
+  "lon": 27.8888960,
+  "tags": {
+    "name": "Formen Berber",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 5898537598,
+  "lat": 39.6519252,
+  "lon": 27.8889164,
+  "tags": {
+    "shop": "dry_cleaning"
+  }
+},
+{
+  "type": "node",
+  "id": 5898537605,
+  "lat": 39.6520272,
+  "lon": 27.8891276,
+  "tags": {
+    "name": "Manolya Erkek Kuaförü",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 5898537606,
+  "lat": 39.6518938,
+  "lon": 27.8894265,
+  "tags": {
+    "name": "Kuaför Ceren",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 5898766158,
+  "lat": 39.6489933,
+  "lon": 27.8788070,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271246,
+  "lat": 39.6544188,
+  "lon": 27.8995836,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271247,
+  "lat": 39.6542546,
+  "lon": 27.8991536,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271248,
+  "lat": 39.6539938,
+  "lon": 27.8984413,
+  "tags": {
+    "amenity": "bench"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271249,
+  "lat": 39.6539461,
+  "lon": 27.8983077,
+  "tags": {
+    "amenity": "atm",
+    "operator": "Vakıf Bank ATM"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271250,
+  "lat": 39.6536935,
+  "lon": 27.8983883,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271253,
+  "lat": 39.6537355,
+  "lon": 27.8976540,
+  "tags": {
+    "amenity": "taxi",
+    "name": "52 Evler",
+    "phone": "+90 266 243 65 19"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271254,
+  "lat": 39.6536035,
+  "lon": 27.8972550,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Hancılar Eczanesi",
+    "phone": "+90 266 239 2060"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271255,
+  "lat": 39.6533186,
+  "lon": 27.8965062,
+  "tags": {
+    "name": "Tuğra Gıda",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271258,
+  "lat": 39.6530119,
+  "lon": 27.8956531,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "Domino's",
+    "brand:wikidata": "Q839466",
+    "brand:wikipedia": "en:Domino's Pizza",
+    "cuisine": "pizza",
+    "name": "Domino's",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271261,
+  "lat": 39.6526249,
+  "lon": 27.8946381,
+  "tags": {
+    "name": "Kuaför Mustafa",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271264,
+  "lat": 39.6526571,
+  "lon": 27.8922003,
+  "tags": {
+    "name": "Ferman Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271265,
+  "lat": 39.6526215,
+  "lon": 27.8922083,
+  "tags": {
+    "name": "Aydan Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5903271266,
+  "lat": 39.6528109,
+  "lon": 27.8924494,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 5903300039,
+  "lat": 39.6528547,
+  "lon": 27.8921008,
+  "tags": {
+    "name": "Serkan Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5903300041,
+  "lat": 39.6529152,
+  "lon": 27.8915027,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Efe Eczanesi",
+    "phone": "+90 266 244 6212"
+  }
+},
+{
+  "type": "node",
+  "id": 5903300042,
+  "lat": 39.6530579,
+  "lon": 27.8903451,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Işık Eczanesi",
+    "phone": "+90 266 249 5008"
+  }
+},
+{
+  "type": "node",
+  "id": 5903300043,
+  "lat": 39.6532317,
+  "lon": 27.8904531,
+  "tags": {
+    "amenity": "water_point"
+  }
+},
+{
+  "type": "node",
+  "id": 5903300044,
+  "lat": 39.6531712,
+  "lon": 27.8903976,
+  "tags": {
+    "name": "Fırıntaş",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5903300046,
+  "lat": 39.6533859,
+  "lon": 27.8902867,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "name": "Derman Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5903300047,
+  "lat": 39.6534232,
+  "lon": 27.8902975,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Buket Eczanesi",
+    "phone": "+90 266 243 9307"
+  }
+},
+{
+  "type": "node",
+  "id": 5903300048,
+  "lat": 39.6534736,
+  "lon": 27.8903214,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Hekimoğlu Eczanesi",
+    "phone": "+90 266 249 3737"
+  }
+},
+{
+  "type": "node",
+  "id": 5903300049,
+  "lat": 39.6535150,
+  "lon": 27.8903349,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "name": "Renk Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5903300083,
+  "lat": 39.6535724,
+  "lon": 27.8905120,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5903300084,
+  "lat": 39.6535552,
+  "lon": 27.8905035,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5903300085,
+  "lat": 39.6536449,
+  "lon": 27.8903889,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Balkan Eczanesi",
+    "phone": "+90 266 243 5082"
+  }
+},
+{
+  "type": "node",
+  "id": 5905884219,
+  "lat": 39.6538003,
+  "lon": 27.8892207,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5906162783,
+  "lat": 39.6525134,
+  "lon": 27.8909380,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5918051586,
+  "lat": 39.6531395,
+  "lon": 27.8891489,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5918051587,
+  "lat": 39.6506705,
+  "lon": 27.8890813,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5974224372,
+  "lat": 39.6543274,
+  "lon": 27.8799504,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5974224373,
+  "lat": 39.6549109,
+  "lon": 27.8797907,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5974224374,
+  "lat": 39.6544407,
+  "lon": 27.8786883,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5974225205,
+  "lat": 39.6550438,
+  "lon": 27.8804640,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5977600953,
+  "lat": 39.6532065,
+  "lon": 27.8871049,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642234,
+  "lat": 39.6525909,
+  "lon": 27.8810501,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642235,
+  "lat": 39.6530817,
+  "lon": 27.8809707,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642254,
+  "lat": 39.6473965,
+  "lon": 27.8821868,
+  "tags": {
+    "name": "Merve Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642255,
+  "lat": 39.6469773,
+  "lon": 27.8820984,
+  "tags": {
+    "name": "Sevil Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642256,
+  "lat": 39.6469825,
+  "lon": 27.8822057,
+  "tags": {
+    "name": "Yaşar Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642286,
+  "lat": 39.6474990,
+  "lon": 27.8817716,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Yenisu Eczanesi",
+    "phone": "+90 266 241 1826"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642320,
+  "lat": 39.6483845,
+  "lon": 27.8812190,
+  "tags": {
+    "name": "Savaştepe Kuyumcusu",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642321,
+  "lat": 39.6484909,
+  "lon": 27.8812376,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Kurtuluş Çeşmesi"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642322,
+  "lat": 39.6485676,
+  "lon": 27.8811878,
+  "tags": {
+    "name": "Asos",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642323,
+  "lat": 39.6486021,
+  "lon": 27.8813820,
+  "tags": {
+    "brand": "Bosch",
+    "brand:wikidata": "Q234021",
+    "name": "Bosch",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642324,
+  "lat": 39.6488415,
+  "lon": 27.8813383,
+  "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "brand": "TEB",
+    "brand:wikidata": "Q7862447",
+    "brand:wikipedia": "en:Türk Ekonomi Bankası",
+    "name": "TEB"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642325,
+  "lat": 39.6489002,
+  "lon": 27.8811472,
+  "tags": {
+    "name": "Özen İş",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642326,
+  "lat": 39.6493254,
+  "lon": 27.8812718,
+  "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "brand": "ING",
+    "brand:wikidata": "Q645708",
+    "brand:wikipedia": "en:ING Group",
+    "name": "ING"
+  }
+},
+{
+  "type": "node",
+  "id": 5977642330,
+  "lat": 39.6498656,
+  "lon": 27.8810394,
+  "tags": {
+    "name": "Beko",
+    "shop": "houseware"
+  }
+},
+{
+  "type": "node",
+  "id": 5977658101,
+  "lat": 39.6454290,
+  "lon": 27.8796800,
+  "tags": {
+    "amenity": "taxi",
+    "name": "Kule Taksi Durağı",
+    "phone": "+90 239 70 80"
+  }
+},
+{
+  "type": "node",
+  "id": 5977658116,
+  "lat": 39.6454012,
+  "lon": 27.8788672,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Çetinel Eczanesi",
+    "phone": "+90 266 243 9693"
+  }
+},
+{
+  "type": "node",
+  "id": 5977658119,
+  "lat": 39.6455058,
+  "lon": 27.8788411,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5977658139,
+  "lat": 39.6456492,
+  "lon": 27.8803009,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Türkiye Finans",
+    "brand:wikidata": "Q6073140",
+    "name": "Türkiye Finans"
+  }
+},
+{
+  "type": "node",
+  "id": 5977658140,
+  "lat": 39.6459395,
+  "lon": 27.8802331,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Halkbank",
+    "brand:wikidata": "Q5642504",
+    "brand:wikipedia": "en:Halkbank",
+    "name": "Halkbank"
+  }
+},
+{
+  "type": "node",
+  "id": 5977658141,
+  "lat": 39.6459781,
+  "lon": 27.8802564,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Akbank",
+    "brand:wikidata": "Q416624",
+    "brand:wikipedia": "tr:Akbank",
+    "name": "Akbank"
+  }
+},
+{
+  "type": "node",
+  "id": 5992439687,
+  "lat": 39.6520229,
+  "lon": 27.8839019,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5997125232,
+  "lat": 39.6443027,
+  "lon": 27.8836849,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 5997125233,
+  "lat": 39.6442883,
+  "lon": 27.8836779,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 5997125234,
+  "lat": 39.6441831,
+  "lon": 27.8837802,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5997781557,
+  "lat": 39.6524947,
+  "lon": 27.8797027,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 5999646387,
+  "lat": 39.6459668,
+  "lon": 27.8807396,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "name": "Nefes",
+    "shop": "laundry"
+  }
+},
+{
+  "type": "node",
+  "id": 6004180899,
+  "lat": 39.6461960,
+  "lon": 27.8807859,
+  "tags": {
+    "amenity": "internet_cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 6004180900,
+  "lat": 39.6461830,
+  "lon": 27.8808447,
+  "tags": {
+    "amenity": "pub",
+    "name": "Deniz Restaurant Pub"
+  }
+},
+{
+  "type": "node",
+  "id": 6004180924,
+  "lat": 39.6462587,
+  "lon": 27.8809260,
+  "tags": {
+    "name": "Eren Kuaför",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 6004180925,
+  "lat": 39.6462690,
+  "lon": 27.8811321,
+  "tags": {
+    "name": "Nil Kuaför",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 6004180931,
+  "lat": 39.6462335,
+  "lon": 27.8813936,
+  "tags": {
+    "name": "Elit Kuru Temizleme",
+    "shop": "dry_cleaning"
+  }
+},
+{
+  "type": "node",
+  "id": 6004180932,
+  "lat": 39.6462155,
+  "lon": 27.8816960,
+  "tags": {
+    "name": "Pınar ve Recep Kuaför",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 6004244558,
+  "lat": 39.6462427,
+  "lon": 27.8817186,
+  "tags": {
+    "name": "Gamze Kuyumculuk",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 6004244559,
+  "lat": 39.6462412,
+  "lon": 27.8816797,
+  "tags": {
+    "name": "Rengarenk Çay Evim",
+    "shop": "tea"
+  }
+},
+{
+  "type": "node",
+  "id": 6004244989,
+  "lat": 39.6462806,
+  "lon": 27.8819089,
+  "tags": {
+    "brand": "Türk Telekom",
+    "brand:wikidata": "Q263700",
+    "name": "Türk Telekom",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 6004244990,
+  "lat": 39.6462583,
+  "lon": 27.8819015,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Akbank",
+    "brand:wikidata": "Q416624",
+    "operator": "Akbank",
+    "operator:wikidata": "Q416624"
+  }
+},
+{
+  "type": "node",
+  "id": 6004244991,
+  "lat": 39.6461495,
+  "lon": 27.8817104,
+  "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "Albaraka Türk Katılım Bankası"
+  }
+},
+{
+  "type": "node",
+  "id": 6004253491,
+  "lat": 39.6460621,
+  "lon": 27.8818450,
+  "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "brand": "Denizbank",
+    "brand:wikidata": "Q1115064",
+    "brand:wikipedia": "en:DenizBank",
+    "name": "Denizbank"
+  }
+},
+{
+  "type": "node",
+  "id": 6004253498,
+  "lat": 39.6459739,
+  "lon": 27.8818321,
+  "tags": {
+    "name": "Kafkaslar Kuyumculuk",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 6004253499,
+  "lat": 39.6455976,
+  "lon": 27.8818261,
+  "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "brand": "Yapı Kredi",
+    "brand:wikidata": "Q8049138",
+    "brand:wikipedia": "en:Yapı ve Kredi Bankası",
+    "name": "Yapı Kredi"
+  }
+},
+{
+  "type": "node",
+  "id": 6004253500,
+  "lat": 39.6456210,
+  "lon": 27.8816697,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:housenumber": "17",
+    "addr:postcode": "10010",
+    "addr:street": "Kızılay Caddesi",
+    "email": "yerce@yerce.com",
+    "name": "Yerce Fotoğrafçılık",
+    "phone": "+90 266 241 08 15",
+    "shop": "photo",
+    "website": "https://www.yerce.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6004328840,
+  "lat": 39.6454009,
+  "lon": 27.8819121,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Sıhhat Eczanesi",
+    "phone": "+90 266 243 9771"
+  }
+},
+{
+  "type": "node",
+  "id": 6004328847,
+  "lat": 39.6455082,
+  "lon": 27.8821753,
+  "tags": {
+    "amenity": "dentist",
+    "healthcare": "dentist"
+  }
+},
+{
+  "type": "node",
+  "id": 6004328859,
+  "lat": 39.6455803,
+  "lon": 27.8822342,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Keyf-i Alem"
+  }
+},
+{
+  "type": "node",
+  "id": 6004328883,
+  "lat": 39.6462624,
+  "lon": 27.8824480,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "kebab",
+    "name": "Yıldız Yemek Kebap"
+  }
+},
+{
+  "type": "node",
+  "id": 6004328884,
+  "lat": 39.6465772,
+  "lon": 27.8823453,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Seymen Eczanesi",
+    "phone": "+90 266 241 0324"
+  }
+},
+{
+  "type": "node",
+  "id": 6004328985,
+  "lat": 39.6467789,
+  "lon": 27.8822778,
+  "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+  }
+},
+{
+  "type": "node",
+  "id": 6004328993,
+  "lat": 39.6464265,
+  "lon": 27.8823961,
+  "tags": {
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 6004328994,
+  "lat": 39.6466879,
+  "lon": 27.8824327,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Kent Eczanesi"
+  }
+},
+{
+  "type": "node",
+  "id": 6004328995,
+  "lat": 39.6467759,
+  "lon": 27.8821551,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Tunç Eczanesi",
+    "phone": "+90 266 243 5456"
+  }
+},
+{
+  "type": "node",
+  "id": 6004328996,
+  "lat": 39.6467907,
+  "lon": 27.8821452,
+  "tags": {
+    "name": "Merkez Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 6004328997,
+  "lat": 39.6468358,
+  "lon": 27.8823161,
+  "tags": {
+    "name": "Aziz Tekel Shop",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 6004328998,
+  "lat": 39.6468120,
+  "lon": 27.8821018,
+  "tags": {
+    "name": "Eyfat Gurme Şarküteri",
+    "shop": "cheese"
+  }
+},
+{
+  "type": "node",
+  "id": 6007634190,
+  "lat": 39.6479299,
+  "lon": 27.8888486,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Karesi Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 6007634228,
+  "lat": 39.6460794,
+  "lon": 27.8841588,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6007634243,
+  "lat": 39.6471388,
+  "lon": 27.8819072,
+  "tags": {
+    "clothes": "underwear;women",
+    "name": "Aynur",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 6007634246,
+  "lat": 39.6466144,
+  "lon": 27.8813057,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6007646168,
+  "lat": 39.6460912,
+  "lon": 27.8807742,
+  "tags": {
+    "name": "Terzi Ayvaz",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 6007646169,
+  "lat": 39.6461942,
+  "lon": 27.8807389,
+  "tags": {
+    "name": "Terzi İsmail Şen",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 6007646170,
+  "lat": 39.6461984,
+  "lon": 27.8806679,
+  "tags": {
+    "shop": "dry_cleaning"
+  }
+},
+{
+  "type": "node",
+  "id": 6007646386,
+  "lat": 39.6467867,
+  "lon": 27.8795128,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Green Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 6043403566,
+  "lat": 39.6442803,
+  "lon": 27.8813574,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6056597662,
+  "lat": 39.6507031,
+  "lon": 27.8810033,
+  "tags": {
+    "name": "İstanbul Ayakkabı Fuarı Outlet",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 6056597668,
+  "lat": 39.6508852,
+  "lon": 27.8808127,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Bacakoğlu Eczanesi",
+    "phone": "+90 266 241 5952"
+  }
+},
+{
+  "type": "node",
+  "id": 6056664501,
+  "lat": 39.6512933,
+  "lon": 27.8805665,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 6056664514,
+  "lat": 39.6513093,
+  "lon": 27.8800726,
+  "tags": {
+    "amenity": "veterinary",
+    "name": "Yonca Veteriner"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704926,
+  "lat": 39.6535579,
+  "lon": 27.8857566,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Türkiye İş Bankası",
+    "brand:wikidata": "Q909613",
+    "brand:wikipedia": "en:Türkiye İş Bankası",
+    "name": "Türkiye İş Bankası"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704929,
+  "lat": 39.6534115,
+  "lon": 27.8870586,
+  "tags": {
+    "name": "4AS Market",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704930,
+  "lat": 39.6534365,
+  "lon": 27.8867857,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Kuveyt Türk",
+    "brand:wikidata": "Q6036058",
+    "brand:wikipedia": "tr:Kuveyt Türk",
+    "name": "Kuveyt Türk"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704931,
+  "lat": 39.6534554,
+  "lon": 27.8865405,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Altıeylül Tapu Müdürlüğü"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704932,
+  "lat": 39.6535264,
+  "lon": 27.8864693,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Ziraat Bankası",
+    "brand:wikidata": "Q696003",
+    "operator": "Ziraat Bankası",
+    "operator:wikidata": "Q696003"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704933,
+  "lat": 39.6535327,
+  "lon": 27.8864144,
+  "tags": {
+    "amenity": "atm",
+    "operator": "Halk Bankası"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704935,
+  "lat": 39.6535954,
+  "lon": 27.8864308,
+  "tags": {
+    "amenity": "taxi"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704936,
+  "lat": 39.6537145,
+  "lon": 27.8865806,
+  "tags": {
+    "brand": "Migros",
+    "brand:wikidata": "Q1754510",
+    "brand:wikipedia": "en:Migros",
+    "name": "Migros",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704937,
+  "lat": 39.6537195,
+  "lon": 27.8867240,
+  "tags": {
+    "name": "Dubai AVM",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704938,
+  "lat": 39.6537239,
+  "lon": 27.8865333,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Garanti Bankası",
+    "brand:wikidata": "Q322962",
+    "operator": "Garanti Bankası",
+    "operator:wikidata": "Q322962"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704939,
+  "lat": 39.6534675,
+  "lon": 27.8871067,
+  "tags": {
+    "amenity": "atm",
+    "operator": "Yapıkredi Bankası"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704940,
+  "lat": 39.6534582,
+  "lon": 27.8871056,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Şekerbank",
+    "brand:wikidata": "Q6088369",
+    "operator": "Şekerbank",
+    "operator:wikidata": "Q6088369"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704941,
+  "lat": 39.6534337,
+  "lon": 27.8871026,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Denizbank",
+    "brand:wikidata": "Q1115064",
+    "operator": "Denizbank",
+    "operator:wikidata": "Q1115064"
+  }
+},
+{
+  "type": "node",
+  "id": 6056704942,
+  "lat": 39.6534483,
+  "lon": 27.8871044,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Garanti Bankası",
+    "brand:wikidata": "Q322962",
+    "operator": "Garanti Bankası",
+    "operator:wikidata": "Q322962"
+  }
+},
+{
+  "type": "node",
+  "id": 6056705327,
+  "lat": 39.6510893,
+  "lon": 27.8871097,
+  "tags": {
+    "amenity": "veterinary"
+  }
+},
+{
+  "type": "node",
+  "id": 6056705343,
+  "lat": 39.6513000,
+  "lon": 27.8881976,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Canan Eczanesi",
+    "phone": "+90 266 249 0704"
+  }
+},
+{
+  "type": "node",
+  "id": 6062980395,
+  "lat": 39.6514300,
+  "lon": 27.8829000,
+  "tags": {
+    "amenity": "taxi",
+    "name": "Fidan Taksi"
+  }
+},
+{
+  "type": "node",
+  "id": 6062980405,
+  "lat": 39.6499923,
+  "lon": 27.8808871,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6062980406,
+  "lat": 39.6500114,
+  "lon": 27.8808965,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6062980407,
+  "lat": 39.6500285,
+  "lon": 27.8809106,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6062980415,
+  "lat": 39.6499859,
+  "lon": 27.8804175,
+  "tags": {
+    "amenity": "parking",
+    "capacity": "100",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Balpark Balıkesir Otopark İşletmeleri",
+    "operator": "Balıkesir Belediyesi",
+    "parking": "underground",
+    "phone": "+90 266 245 20 10",
+    "website": "https://www.balpark.com.tr/"
+  }
+},
+{
+  "type": "node",
+  "id": 6062980435,
+  "lat": 39.6487968,
+  "lon": 27.8791034,
+  "tags": {
+    "name": "6N Market",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 6062980456,
+  "lat": 39.6479152,
+  "lon": 27.8795950,
+  "tags": {
+    "name": "Berber Üzeyir",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 6062980457,
+  "lat": 39.6478974,
+  "lon": 27.8795656,
+  "tags": {
+    "name": "Gönül Terzisi",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 6062980458,
+  "lat": 39.6478891,
+  "lon": 27.8795290,
+  "tags": {
+    "shop": "locksmith"
+  }
+},
+{
+  "type": "node",
+  "id": 6062980468,
+  "lat": 39.6478432,
+  "lon": 27.8794305,
+  "tags": {
+    "name": "Siyah & Beyaz",
+    "shop": "photo"
+  }
+},
+{
+  "type": "node",
+  "id": 6062980472,
+  "lat": 39.6475877,
+  "lon": 27.8791190,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 6062996525,
+  "lat": 39.6487215,
+  "lon": 27.8830614,
+  "tags": {
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 6063009125,
+  "lat": 39.6470365,
+  "lon": 27.8790115,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6063009146,
+  "lat": 39.6470129,
+  "lon": 27.8801157,
+  "tags": {
+    "amenity": "parking",
+    "fee": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6076470840,
+  "lat": 39.6457110,
+  "lon": 27.8826714,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 6076470890,
+  "lat": 39.6476318,
+  "lon": 27.8787476,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6076511114,
+  "lat": 39.6481012,
+  "lon": 27.8787825,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6095433433,
+  "lat": 39.6530732,
+  "lon": 27.8890496,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6095508984,
+  "lat": 39.6537887,
+  "lon": 27.8800842,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6095509985,
+  "lat": 39.6539020,
+  "lon": 27.8803538,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6095509986,
+  "lat": 39.6539305,
+  "lon": 27.8801242,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6098266863,
+  "lat": 39.6460991,
+  "lon": 27.8842479,
+  "tags": {
+    "brand": "Migros",
+    "brand:wikidata": "Q1754510",
+    "name": "Migros",
+    "shop": "supermarket",
+    "website": "https://www.migros.com.tr/"
+  }
+},
+{
+  "type": "node",
+  "id": 6098266864,
+  "lat": 39.6462014,
+  "lon": 27.8842774,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Mid Plus Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 6098266865,
+  "lat": 39.6463772,
+  "lon": 27.8839812,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:neighbourhood": "Eski Kuyumcular Mahallesi",
+    "amenity": "fast_food",
+    "cuisine": "burger",
+    "delivery": "yes",
+    "drive_through": "no",
+    "name": "Donas",
+    "opening_hours": "Mo-Su 10:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "444 33 67",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6098266866,
+  "lat": 39.6465156,
+  "lon": 27.8838472,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "Simit Sarayı",
+    "brand:wikidata": "Q28042608",
+    "name": "Simit Sarayı",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 6098266867,
+  "lat": 39.6468038,
+  "lon": 27.8836986,
+  "tags": {
+    "shop": "tea"
+  }
+},
+{
+  "type": "node",
+  "id": 6098266868,
+  "lat": 39.6468106,
+  "lon": 27.8836384,
+  "tags": {
+    "name": "Oğuz Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 6098266869,
+  "lat": 39.6470532,
+  "lon": 27.8854460,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Bayramefendi Osmanlı Kahvecisi",
+    "phone": "+90 266 249 01 01"
+  }
+},
+{
+  "type": "node",
+  "id": 6098266870,
+  "lat": 39.6468311,
+  "lon": 27.8854483,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Pizza Pizza",
+    "phone": "+90 266 239 88 91",
+    "website": "https://www.pizzapizza.com.tr/"
+  }
+},
+{
+  "type": "node",
+  "id": 6098266871,
+  "lat": 39.6470748,
+  "lon": 27.8854172,
+  "tags": {
+    "amenity": "atm",
+    "operator": "Garanti Paramatik"
+  }
+},
+{
+  "type": "node",
+  "id": 6102805535,
+  "lat": 39.6491788,
+  "lon": 27.8836908,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6112262048,
+  "lat": 39.6526175,
+  "lon": 27.8850139,
+  "tags": {
+    "shop": "tea"
+  }
+},
+{
+  "type": "node",
+  "id": 6112262069,
+  "lat": 39.6518868,
+  "lon": 27.8855392,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6119111051,
+  "lat": 39.6501653,
+  "lon": 27.8827879,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6120663761,
+  "lat": 39.6549030,
+  "lon": 27.8888750,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Nilay Eczanesi",
+    "phone": "+90 266 241 2285"
+  }
+},
+{
+  "type": "node",
+  "id": 6120663762,
+  "lat": 39.6549143,
+  "lon": 27.8887479,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Kınık Eczanesi",
+    "phone": "+90 533 488 6466"
+  }
+},
+{
+  "type": "node",
+  "id": 6120663763,
+  "lat": 39.6549967,
+  "lon": 27.8891345,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Canbey Eczanesi",
+    "phone": "+90 266 241 1753"
+  }
+},
+{
+  "type": "node",
+  "id": 6128341977,
+  "lat": 39.6506580,
+  "lon": 27.8781479,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6174544736,
+  "lat": 39.6488311,
+  "lon": 27.8781763,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6183621965,
+  "lat": 39.6542802,
+  "lon": 27.8828663,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6191723740,
+  "lat": 39.6532884,
+  "lon": 27.9008343,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6191723741,
+  "lat": 39.6525580,
+  "lon": 27.9004598,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "Burger King",
+    "brand:wikidata": "Q177054",
+    "brand:wikipedia": "en:Burger King",
+    "cuisine": "burger",
+    "name": "Burger King",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6212867382,
+  "lat": 39.6443048,
+  "lon": 27.8811589,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6226508018,
+  "lat": 39.6457757,
+  "lon": 27.9003576,
+  "tags": {
+    "name": "Pınar Ekmek Fabrikası",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 6246104924,
+  "lat": 39.6466945,
+  "lon": 27.8854541,
+  "tags": {
+    "brand": "Rossmann",
+    "brand:wikidata": "Q316004",
+    "name": "Rossmann",
+    "shop": "chemist",
+    "website": "http://www.rossmann.com.tr/"
+  }
+},
+{
+  "type": "node",
+  "id": 6274312691,
+  "lat": 39.6543947,
+  "lon": 27.8794107,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6274312692,
+  "lat": 39.6542067,
+  "lon": 27.8786831,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6290602196,
+  "lat": 39.6495258,
+  "lon": 27.8906372,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6290602197,
+  "lat": 39.6495072,
+  "lon": 27.8908880,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6300530606,
+  "lat": 39.6469809,
+  "lon": 27.8823500,
+  "tags": {
+    "name": "Kaya Manav",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 6300580188,
+  "lat": 39.6469755,
+  "lon": 27.8825613,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Dinç Eczanesi",
+    "phone": "+90 266 241 2098"
+  }
+},
+{
+  "type": "node",
+  "id": 6300580189,
+  "lat": 39.6469829,
+  "lon": 27.8825798,
+  "tags": {
+    "name": "Kuaför Kırık Fön",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 6300580191,
+  "lat": 39.6469829,
+  "lon": 27.8831903,
+  "tags": {
+    "name": "Ferman Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 6300580192,
+  "lat": 39.6467888,
+  "lon": 27.8832453,
+  "tags": {
+    "name": "Odak Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 6300602643,
+  "lat": 39.6469693,
+  "lon": 27.8844574,
+  "tags": {
+    "name": "Yücel Optik",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 6300602644,
+  "lat": 39.6473054,
+  "lon": 27.8843504,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Cankorur Eczanesi",
+    "phone": "+90 266 243 4316"
+  }
+},
+{
+  "type": "node",
+  "id": 6300602645,
+  "lat": 39.6474486,
+  "lon": 27.8845008,
+  "tags": {
+    "name": "Elif",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 6300602646,
+  "lat": 39.6474705,
+  "lon": 27.8846251,
+  "tags": {
+    "beauty": "cosmetics",
+    "brand": "Yves Rocher",
+    "brand:wikidata": "Q1477321",
+    "brand:wikipedia": "fr:Yves Rocher (entreprise)",
+    "name": "Yves Rocher",
+    "shop": "cosmetics"
+  }
+},
+{
+  "type": "node",
+  "id": 6300614433,
+  "lat": 39.6479481,
+  "lon": 27.8844216,
+  "tags": {
+    "name": "Berrak Kuru Temizleme",
+    "shop": "dry_cleaning"
+  }
+},
+{
+  "type": "node",
+  "id": 6304977987,
+  "lat": 39.6454298,
+  "lon": 27.8829420,
+  "tags": {
+    "amenity": "drinking_water"
+  }
+},
+{
+  "type": "node",
+  "id": 6304980135,
+  "lat": 39.6458082,
+  "lon": 27.8833502,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "grill;turkish",
+    "name": "Eti Güzel"
+  }
+},
+{
+  "type": "node",
+  "id": 6304980138,
+  "lat": 39.6459601,
+  "lon": 27.8832198,
+  "tags": {
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 6304980139,
+  "lat": 39.6459414,
+  "lon": 27.8829850,
+  "tags": {
+    "shop": "copyshop"
+  }
+},
+{
+  "type": "node",
+  "id": 6304986035,
+  "lat": 39.6457865,
+  "lon": 27.8832761,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6304986036,
+  "lat": 39.6459064,
+  "lon": 27.8831531,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6304986037,
+  "lat": 39.6460154,
+  "lon": 27.8830399,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6304986038,
+  "lat": 39.6461441,
+  "lon": 27.8829071,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 6304986039,
+  "lat": 39.6462735,
+  "lon": 27.8828570,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Yasa"
+  }
+},
+{
+  "type": "node",
+  "id": 6304986040,
+  "lat": 39.6464905,
+  "lon": 27.8826744,
+  "tags": {
+    "name": "Şimşek Büfe",
+    "shop": "kiosk"
+  }
+},
+{
+  "type": "node",
+  "id": 6304986041,
+  "lat": 39.6464871,
+  "lon": 27.8828142,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Asri Eczane",
+    "phone": "+90 266 239 7383"
+  }
+},
+{
+  "type": "node",
+  "id": 6305004496,
+  "lat": 39.6465530,
+  "lon": 27.8825987,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "İrem Eczanesi",
+    "phone": "+90 266 245 0550"
+  }
+},
+{
+  "type": "node",
+  "id": 6305062691,
+  "lat": 39.6467505,
+  "lon": 27.8823660,
+  "tags": {
+    "shop": "copyshop"
+  }
+},
+{
+  "type": "node",
+  "id": 6305128892,
+  "lat": 39.6467937,
+  "lon": 27.8819436,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6305128893,
+  "lat": 39.6467705,
+  "lon": 27.8819454,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6305128894,
+  "lat": 39.6467501,
+  "lon": 27.8819471,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6305128895,
+  "lat": 39.6466846,
+  "lon": 27.8820020,
+  "tags": {
+    "shop": "lottery"
+  }
+},
+{
+  "type": "node",
+  "id": 6305128896,
+  "lat": 39.6466662,
+  "lon": 27.8820444,
+  "tags": {
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 6305128897,
+  "lat": 39.6467311,
+  "lon": 27.8817460,
+  "tags": {
+    "name": "Elit Büfe",
+    "shop": "kiosk"
+  }
+},
+{
+  "type": "node",
+  "id": 6305128901,
+  "lat": 39.6463121,
+  "lon": 27.8819132,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Akbank",
+    "brand:wikidata": "Q416624",
+    "brand:wikipedia": "en:Akbank",
+    "cash_in": "yes",
+    "currency:try": "yes",
+    "name": "Akbank",
+    "operator": "Akbank",
+    "operator:wikidata": "Q416624"
+  }
+},
+{
+  "type": "node",
+  "id": 6305128906,
+  "lat": 39.6460904,
+  "lon": 27.8822477,
+  "tags": {
+    "name": "Ruby Dövme Stüdyosu",
+    "shop": "tattoo"
+  }
+},
+{
+  "type": "node",
+  "id": 6332548301,
+  "lat": 39.6463748,
+  "lon": 27.8980261,
+  "tags": {
+    "name": "Cihan Et",
+    "shop": "butcher"
+  }
+},
+{
+  "type": "node",
+  "id": 6332548302,
+  "lat": 39.6464485,
+  "lon": 27.8977716,
+  "tags": {
+    "name": "Levent Tekel Büfe",
+    "shop": "kiosk"
+  }
+},
+{
+  "type": "node",
+  "id": 7266418697,
+  "lat": 39.6530641,
+  "lon": 27.8957278,
+  "tags": {
+    "addr:city": "Balikesir",
+    "addr:housename": "Tellioglu",
+    "addr:neighborhood": "Atatürk Mh.",
+    "addr:postcode": "10020",
+    "addr:street": "Bandırma Cad",
+    "alt_name": "Ateliér Fiori 52",
+    "amenity": "restaurant",
+    "designation": "Restaurant",
+    "int_name": "Ateliér Fiori 52",
+    "name": "Ateliér Fiori 52",
+    "old_name": "Ateliér Fiori 52",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 8634632431,
+  "lat": 39.6464795,
+  "lon": 27.8803046,
+  "tags": {
+    "amenity": "bank",
+    "name": "Albaraka -Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 9529995430,
+  "lat": 39.6491120,
+  "lon": 27.8807898,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:neighbourhood": "Hisariçi Mahallesi",
+    "addr:postcode": "10010",
+    "addr:street": "Örücüler Caddesi",
+    "clothes": "men;wedding;suits;fashion;workwear",
+    "description": "Damatlık ve Takım Elbise modellerimiz ile sizleri en özel gününüze hazırlıyoruz. Erkeğe Dair Herşey",
+    "name": "Cmr Erkek Giyim",
+    "opening_hours": "Mo-Sa 08:00-18:00",
+    "operator": "Cmr Erkek Giyim",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+90 555 504 56 27",
+    "shop": "clothes",
+    "website": "https://cmrerkekgiyim.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10064014355,
+  "lat": 39.6487530,
+  "lon": 27.8810897,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "hisariçi mahallesi numara 6",
+    "name": "hitrafi kuyumcu",
+    "phone": "+90 535 682 00 28",
+    "shop": "jewelry",
+    "website": "http://hitrafi.com"
+  }
+},
+{
+  "type": "node",
+  "id": 10273662157,
+  "lat": 39.6462334,
+  "lon": 27.8831680,
+  "tags": {
+    "name": "EKA Mağazası",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 10723161305,
+  "lat": 39.6490552,
+  "lon": 27.8797285,
+  "tags": {
+    "amenity": "toilets",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11117433005,
+  "lat": 39.6485675,
+  "lon": 27.8844259,
+  "tags": {
+    "addr:housenumber": "3 No'lu",
+    "addr:street": "Otopark Yanı Sokağı",
+    "amenity": "restaurant",
+    "cuisine": "fish",
+    "name": "Balikçi Korkmazlar",
+    "website": "http://www.korkmazlarbalikcilik.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11368422503,
+  "lat": 39.6499322,
+  "lon": 27.8803316,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:housenumber": "1",
+    "addr:neighbourhood": "Karesi Mahallesi",
+    "addr:postcode": "10010",
+    "addr:street": "Alankuyu Sokağı",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop;pasta;sandwich",
+    "internet_access": "no",
+    "name": "On On Kafe",
+    "opening_hours": "10:00-01:00",
+    "outdoor_seating": "yes",
+    "website": "https://ononkafe.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11368422504,
+  "lat": 39.6489500,
+  "lon": 27.8794319,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Taş Kahve",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11368422505,
+  "lat": 39.6495148,
+  "lon": 27.8794241,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Çınaraltı",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11381987269,
+  "lat": 39.6489357,
+  "lon": 27.8804002,
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:postcode": "10010",
+    "addr:street": "Turan Caddesi",
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "name": "Kanaat lokantası",
+    "opening_hours": "Mo-Su 05:00-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582071,
+  "lat": 39.6511248,
+  "lon": 27.8809307,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Yeni Kavunoğlu Eczanesi",
+    "phone": "+90 266 241 6129"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582072,
+  "lat": 39.6518329,
+  "lon": 27.8833253,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Emek Eczanesi",
+    "phone": "+90 266 241 4057"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582073,
+  "lat": 39.6513155,
+  "lon": 27.8842767,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Güven Eczanesi",
+    "phone": "+90 266 243 4315"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582074,
+  "lat": 39.6462793,
+  "lon": 27.8839237,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Yeşilli Eczanesi",
+    "phone": "+90 266 241 2502"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582075,
+  "lat": 39.6453998,
+  "lon": 27.8820259,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Uğurlu Eczanesi",
+    "phone": "+90 266 243 0599"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582171,
+  "lat": 39.6479444,
+  "lon": 27.8816554,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Hayat Eczanesi",
+    "phone": "+90 266 245 0397"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582172,
+  "lat": 39.6502507,
+  "lon": 27.8808144,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Karesi Eczanesi",
+    "phone": "+90 266 243 0410"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582173,
+  "lat": 39.6525543,
+  "lon": 27.8841164,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Perihan Eczanesi",
+    "phone": "+90 266 241 6097"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582174,
+  "lat": 39.6511352,
+  "lon": 27.8875894,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Özmen Şule Eczanesi",
+    "phone": "+90 266 241 5509"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582175,
+  "lat": 39.6515046,
+  "lon": 27.8891463,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Yeni Ege Eczanesi",
+    "phone": "+90 266 241 5535"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582176,
+  "lat": 39.6453693,
+  "lon": 27.8821674,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Çağdaş Eczanesi",
+    "phone": "+90 266 243 1690"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582269,
+  "lat": 39.6477986,
+  "lon": 27.8830032,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Özmelek Eczanesi",
+    "phone": "+90 266 241 1559"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582270,
+  "lat": 39.6499483,
+  "lon": 27.8828244,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Öntan Eczanesi",
+    "phone": "+90 266 243 0505"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582769,
+  "lat": 39.6530720,
+  "lon": 27.8837528,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Yılmaz Eczanesi",
+    "phone": "+90 266 243 9555"
+  }
+},
+{
+  "type": "node",
+  "id": 11497582869,
+  "lat": 39.6457159,
+  "lon": 27.8809020,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Karahan Eczanesi",
+    "phone": "+90 266 239 2314"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309569,
+  "lat": 39.6532469,
+  "lon": 27.8984985,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Yeni Hisar Eczanesi",
+    "phone": "+90 266 246 0122"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309570,
+  "lat": 39.6534172,
+  "lon": 27.8939726,
+  "tags": {
+    "addr:housenumber": "46/1",
+    "addr:street": "Turgut Reis Caddesi",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Bilgiç Eczanesi",
+    "phone": "+90 266 239 7789"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309571,
+  "lat": 39.6537735,
+  "lon": 27.8904113,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Özenç Eczanesi",
+    "phone": "+90 266 245 6555"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309572,
+  "lat": 39.6538402,
+  "lon": 27.8904379,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Duygu Eczanesi",
+    "phone": "+90 266 243 4122"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309573,
+  "lat": 39.6539117,
+  "lon": 27.8904672,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Şeker Eczanesi",
+    "phone": "+90 266 245 3906"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309574,
+  "lat": 39.6544341,
+  "lon": 27.8907032,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "İlter Eczanesi",
+    "phone": "+90 266 239 1319"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309669,
+  "lat": 39.6529434,
+  "lon": 27.8926861,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Tunalılar Eczanesi",
+    "phone": "+90 266 249 8282"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309670,
+  "lat": 39.6528709,
+  "lon": 27.8912404,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Yeni Akdeniz Eczanesi",
+    "phone": "+90 266 576 2854"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309671,
+  "lat": 39.6537186,
+  "lon": 27.8903951,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Deva Eczanesi",
+    "phone": "+90 266 249 9295"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309672,
+  "lat": 39.6539754,
+  "lon": 27.8905009,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Volkan Eczanesi",
+    "phone": "+90 266 244 6260"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309769,
+  "lat": 39.6533309,
+  "lon": 27.8893416,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Koray Eczanesi",
+    "phone": "+90 266 243 0268"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309770,
+  "lat": 39.6532637,
+  "lon": 27.8899125,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Kıral Eczanesi",
+    "phone": "+90 266 245 5298"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309771,
+  "lat": 39.6548551,
+  "lon": 27.8891691,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Yusuf Eczanesi",
+    "phone": "+90 266 239 3757"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309869,
+  "lat": 39.6534007,
+  "lon": 27.8900816,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Övünç Eczanesi",
+    "phone": "+90 266 249 5000"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309969,
+  "lat": 39.6542513,
+  "lon": 27.8906232,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Acaroğlu Eczanesi",
+    "phone": "+90 266 243 1314"
+  }
+},
+{
+  "type": "node",
+  "id": 11499309970,
+  "lat": 39.6543286,
+  "lon": 27.8906623,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:street": "Ömer Alibey Caddesi",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Alver Eczanesi",
+    "phone": "+90 266 239 4950"
+  }
+},
+{
+  "type": "node",
+  "id": 12110053638,
+  "lat": 39.6466598,
+  "lon": 27.8803899,
+  "tags": {
+    "alt_name": "Kentucky Fried Chicken",
+    "amenity": "fast_food",
+    "brand": "KFC",
+    "brand:wikidata": "Q524757",
+    "cuisine": "chicken",
+    "name": "KFC",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12110071279,
+  "lat": 39.6468023,
+  "lon": 27.8804565,
+  "tags": {
+    "name": "Mert Murat Ltd. Şti.",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 12110092078,
+  "lat": 39.6469746,
+  "lon": 27.8805795,
+  "tags": {
+    "name": "Özşanal",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 12110111407,
+  "lat": 39.6467520,
+  "lon": 27.8803856,
+  "tags": {
+    "name": "Arsa 10da Gayrimenkul",
+    "shop": "estate_agent"
+  }
+},
+{
+  "type": "node",
+  "id": 12110111676,
+  "lat": 39.6471179,
+  "lon": 27.8809148,
+  "tags": {
+    "name": "Seç-Al",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 12110125418,
+  "lat": 39.6468541,
+  "lon": 27.8805058,
+  "tags": {
+    "name": "Addax",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 12110137278,
+  "lat": 39.6470700,
+  "lon": 27.8806157,
+  "tags": {
+    "name": "Motif Halı",
+    "shop": "carpet"
+  }
+},
+{
+  "type": "node",
+  "id": 12201058959,
+  "lat": 39.6481517,
+  "lon": 27.8876384,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Karesi",
+    "addr:neighbourhood": "Akıncılar, Gazi Blv., 10010 Balıkesir Karesi/Balıkesir",
+    "addr:postcode": "10010",
+    "addr:street": "Gazi Bulvarı",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop;sandwich;pasta",
+    "name": "On On Kafe"
+  }
+},
+{
+  "type": "node",
+  "id": 12231183302,
+  "lat": 39.6515509,
+  "lon": 27.9011782,
+  "tags": {
+    "name": "Colombia Coffee",
+    "outdoor_seating": "no",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 12829037701,
+  "lat": 39.6463397,
+  "lon": 27.8829530,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Burger Savran"
+  }
+},
+{
+  "type": "node",
+  "id": 12829054101,
+  "lat": 39.6464937,
+  "lon": 27.8829604,
+  "tags": {
+    "amenity": "cafe",
+    "name": "City Box Coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 12844395909,
+  "lat": 39.6491635,
+  "lon": 27.8935235,
+  "tags": {
+    "access": "yes",
+    "amenity": "water_point"
+  }
+},
+{
+  "type": "node",
+  "id": 12871691420,
+  "lat": 39.6469003,
+  "lon": 27.8923519,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "brand": "As Konteyner",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 12871691421,
+  "lat": 39.6469459,
+  "lon": 27.8924218,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "brand": "As Konteyner",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 12871691422,
+  "lat": 39.6468309,
+  "lon": 27.8921942,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "brand": "As Konteyner",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 12871691423,
+  "lat": 39.6466148,
+  "lon": 27.8919318,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "brand": "As Konteyner",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 12871691424,
+  "lat": 39.6466219,
+  "lon": 27.8918851,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "brand": "As Konteyner",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 12871691425,
+  "lat": 39.6463996,
+  "lon": 27.8916390,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "brand": "As Konteyner",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 12871691426,
+  "lat": 39.6464051,
+  "lon": 27.8916484,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "brand": "As Konteyner",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668363287,
+  "lat": 39.6462853,
+  "lon": 27.8911866,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "brand": "As Konteyner",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668363295,
+  "lat": 39.6461887,
+  "lon": 27.8911596,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "brand": "As Konteyner",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668363296,
+  "lat": 39.6462008,
+  "lon": 27.8910278,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "brand": "As Konteyner",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668486968,
+  "lat": 39.6471733,
+  "lon": 27.8919278,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668486971,
+  "lat": 39.6470523,
+  "lon": 27.8917293,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668486994,
+  "lat": 39.6464287,
+  "lon": 27.8908543,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668505278,
+  "lat": 39.6468733,
+  "lon": 27.8926716,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668505279,
+  "lat": 39.6468215,
+  "lon": 27.8926610,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668505280,
+  "lat": 39.6470030,
+  "lon": 27.8927007,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668505281,
+  "lat": 39.6470336,
+  "lon": 27.8926235,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668505295,
+  "lat": 39.6473056,
+  "lon": 27.8927714,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668545591,
+  "lat": 39.6460902,
+  "lon": 27.8921189,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668545593,
+  "lat": 39.6461176,
+  "lon": 27.8918850,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668580703,
+  "lat": 39.6463582,
+  "lon": 27.8925597,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668580710,
+  "lat": 39.6465093,
+  "lon": 27.8924831,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668580711,
+  "lat": 39.6466060,
+  "lon": 27.8925091,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668611956,
+  "lat": 39.6467027,
+  "lon": 27.8924639,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Altıeylül",
+    "addr:housenumber": "13A",
+    "addr:neighbourhood": "Gümüşçeşme Mahallesi",
+    "addr:postcode": "10100",
+    "addr:street": "Gümüşpala Caddesi",
+    "hairdresser": "barber",
+    "male": "yes",
+    "name": "Erkek Kuaförü İlhan ÇIVRACI",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 13668611961,
+  "lat": 39.6466173,
+  "lon": 27.8926143,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668723576,
+  "lat": 39.6460482,
+  "lon": 27.8919757,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668723586,
+  "lat": 39.6457803,
+  "lon": 27.8922302,
+  "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Altıeylül",
+    "addr:housenumber": "19A",
+    "addr:neighbourhood": "Gümüşçeşme Mahallesi",
+    "addr:postcode": "10100",
+    "addr:street": "Vehbi Bolak Caddesi",
+    "name": "Hamza Çağrı Kardeşler Simit ve Unlu Mamülleri",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 13668723587,
+  "lat": 39.6457232,
+  "lon": 27.8921298,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668723597,
+  "lat": 39.6456887,
+  "lon": 27.8918552,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668744706,
+  "lat": 39.6456740,
+  "lon": 27.8914503,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "male": "yes",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13668744707,
+  "lat": 39.6456588,
+  "lon": 27.8914173,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "female": "yes",
+    "opening_hours": "Salı-Pazar Tüm Gün",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13668763733,
+  "lat": 39.6456099,
+  "lon": 27.8908915,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668763736,
+  "lat": 39.6461077,
+  "lon": 27.8913375,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668763737,
+  "lat": 39.6460225,
+  "lon": 27.8912675,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668763738,
+  "lat": 39.6459563,
+  "lon": 27.8912115,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668763739,
+  "lat": 39.6459876,
+  "lon": 27.8911475,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13668765296,
+  "lat": 39.6480763,
+  "lon": 27.8938148,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Altıeylül Belediyesi",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 14051520401,
+  "lat": 39.6469375,
+  "lon": 27.8808025,
+  "tags": {
+    "addr:street": "Anafartalar Caddesi",
+    "name": "İÇÖZ Gümüş (1970)",
+    "shop": "gift"
+  }
+},
+{
+  "type": "node",
+  "id": 14064466902,
+  "lat": 39.6451667,
+  "lon": 27.8811290,
+  "tags": {
+    "amenity": "cafe",
+    "name": "BALKESLİ NEVZAT'IN YERİ  (Çay Evi &Tostçu)"
+  }
+},
+{
+  "type": "node",
+  "id": 14285050601,
+  "lat": 39.6481528,
+  "lon": 27.8850642,
+  "tags": {
+    "addr:housenumber": "12/A",
+    "addr:postcode": "10100",
+    "addr:street": "Cumhuriyet Caddesi",
+    "contact:facebook": "share/1CbKH7Jwxq",
+    "contact:instagram": "balikesirguraydedektor",
+    "contact:twitter": "DedektorGuray",
+    "email": "guraydedektor@mail.com",
+    "internet_access": "wlan",
+    "name": "BALIKESİR GÜRAY DEDEKTÖR",
+    "opening_hours": "24/7",
+    "phone": "+90 532 157 01 50",
+    "shop": "electronics",
+    "website": "http://www.guraydedektor.com"
+  }
+},
+{
+  "type": "way",
+  "id": 576188190,
+  "center": {
+    "lat": 39.6531937,
+    "lon": 27.8860478
+  },
+  "tags": {
+    "shop": "mall"
+  }
+}
+
+  ]
+}
