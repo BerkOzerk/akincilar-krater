@@ -113,6 +113,11 @@ def ana():
         if k["isletmeler"]:
             ana_ad = k["isletmeler"][0]
             k["baslik"] = ana_ad if len(k["isletmeler"]) == 1 else f"{ana_ad} +{len(k['isletmeler']) - 1}"
+            # ana isletmenin tipi (ic mekanda tur satiri icin) — adla eslestir
+            for p in poi:
+                if p["ad"] == ana_ad:
+                    k["tip"] = p["tip"]
+                    break
 
     json.dump(kapilar, open(kapi_yol, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print("OK ->", kapi_yol)

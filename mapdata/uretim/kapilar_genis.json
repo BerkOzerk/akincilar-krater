@@ -67,7 +67,8 @@
    "baslik": "On On Kafe",
    "isletmeler": [
     "On On Kafe"
-   ]
+   ],
+   "tip": "cafe"
   },
   {
    "blok": 13,
@@ -78,7 +79,8 @@
    "baslik": "Continental Balıkesir Merkez Lastik Bayi",
    "isletmeler": [
     "Continental Balıkesir Merkez Lastik Bayi"
-   ]
+   ],
+   "tip": "tyres"
   },
   {
    "blok": 14,
@@ -98,7 +100,8 @@
    "baslik": "Canan Eczanesi",
    "isletmeler": [
     "Canan Eczanesi"
-   ]
+   ],
+   "tip": "pharmacy"
   },
   {
    "blok": 17,
@@ -119,7 +122,8 @@
    "isletmeler": [
     "On On Kafe",
     "Burger King"
-   ]
+   ],
+   "tip": "cafe"
   },
   {
    "blok": 19,
@@ -139,7 +143,8 @@
    "baslik": "Özmen Şule Eczanesi",
    "isletmeler": [
     "Özmen Şule Eczanesi"
-   ]
+   ],
+   "tip": "pharmacy"
   },
   {
    "blok": 21,
@@ -213,7 +218,8 @@
    "baslik": "Burger King",
    "isletmeler": [
     "Burger King"
-   ]
+   ],
+   "tip": "fast_food"
   },
   {
    "blok": 32,
@@ -225,7 +231,8 @@
    "isletmeler": [
     "Karesi Cafe",
     "Burger King"
-   ]
+   ],
+   "tip": "cafe"
   },
   {
    "blok": 33,
@@ -236,7 +243,8 @@
    "baslik": "Karesi Cafe",
    "isletmeler": [
     "Karesi Cafe"
-   ]
+   ],
+   "tip": "cafe"
   },
   {
    "blok": 34,
@@ -256,7 +264,8 @@
    "baslik": "Karesi Cafe",
    "isletmeler": [
     "Karesi Cafe"
-   ]
+   ],
+   "tip": "cafe"
   },
   {
    "blok": 36,
@@ -276,7 +285,8 @@
    "baslik": "Continental Balıkesir Merkez Lastik Bayi",
    "isletmeler": [
     "Continental Balıkesir Merkez Lastik Bayi"
-   ]
+   ],
+   "tip": "tyres"
   },
   {
    "blok": 39,
@@ -350,7 +360,8 @@
    "baslik": "On On Kafe",
    "isletmeler": [
     "On On Kafe"
-   ]
+   ],
+   "tip": "cafe"
   },
   {
    "blok": 51,
@@ -361,7 +372,8 @@
    "baslik": "Kösem Tekel",
    "isletmeler": [
     "Kösem Tekel"
-   ]
+   ],
+   "tip": "convenience"
   },
   {
    "blok": 54,
@@ -372,7 +384,8 @@
    "baslik": "Manolya Çiçekçi",
    "isletmeler": [
     "Manolya Çiçekçi"
-   ]
+   ],
+   "tip": "florist"
   },
   {
    "blok": 55,
