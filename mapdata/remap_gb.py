@@ -44,6 +44,9 @@ def en_yakin(c):
 # harita penceresi (harita_uret.py meta'sindan, carpisma.json ile ayni cerceve)
 OX, OY = 575867.03, 4388840.62  # UTM 35N min kose
 W_M, H_M = 764.34, 600.0
+# 22.10.2026 saha kalibrasyonu (config.ts GPS_CAL ile AYNI): eski OSM ciziminin
+# "hizasizligi" yol verisinde degil cercevedeydi — kalibrasyonla birlikte dogru oturur.
+CAL_DX, CAL_DY = -40.0, 184.0
 
 GENISLIK = {  # highway tipi -> yol genisligi (m)
     "motorway": 12, "trunk": 12, "primary": 10, "secondary": 8,
@@ -52,6 +55,13 @@ GENISLIK = {  # highway tipi -> yol genisligi (m)
 }
 
 def osm_yollar():
+    # once yerel onbellege bak (Overpass sunuculari kararsiz)
+    onbel = os.path.join(BASE, "uretim", "osm_yollar.json")
+    if os.path.exists(onbel):
+        data = json.load(open(onbel, encoding="utf-8"))
+        print("OSM yollari yerel onbellegten")
+        return _yollari_isle(data)
+
     from pyproj import Transformer
     t_wgs = Transformer.from_crs("EPSG:32635", "EPSG:4326", always_xy=True)  # utm->wgs84
     t_utm = Transformer.from_crs("EPSG:4326", "EPSG:32635", always_xy=True)  # wgs84->utm
@@ -60,9 +70,24 @@ def osm_yollar():
     bbox = f"{lat_min},{lon_min},{lat_max},{lon_max}"
     sorgu = f'[out:json][timeout:60];(way["highway"]({bbox}););(._;>;);out;'
     url = "https://overpass-api.de/api/interpreter?data=" + urllib.parse.quote(sorgu)
-    istek = urllib.request.Request(url, headers={"User-Agent": "krater-map/1.0 (yerel harita)"})
-    with urllib.request.urlopen(istek, timeout=120) as r:
-        data = json.loads(r.read().decode())
+    data = None
+    for taban in ["https://overpass-api.de/api/interpreter?data=", "https://overpass.kumi.systems/api/interpreter?data="]:
+        try:
+            istek = urllib.request.Request(taban + urllib.parse.quote(sorgu), headers={"User-Agent": "krater-map/1.0 (yerel harita)"})
+            with urllib.request.urlopen(istek, timeout=120) as r:
+                data = json.loads(r.read().decode())
+            break
+        except Exception:
+            continue
+    if data is None:
+        raise RuntimeError("Overpass aynalari basarisiz")
+    json.dump(data, open(onbel, "w", encoding="utf-8"), ensure_ascii=False)
+    return _yollari_isle(data)
+
+
+def _yollari_isle(data):
+    from pyproj import Transformer
+    t_utm = Transformer.from_crs("EPSG:4326", "EPSG:32635", always_xy=True)
     nodeler = {e["id"]: (e["lon"], e["lat"]) for e in data["elements"] if e["type"] == "node"}
     yollar = []
     for e in data["elements"]:
@@ -89,7 +114,8 @@ def ciz_yollar(img):
         gen = GENISLIK[hw]
         w_px = max(2, round(gen * s))
         renk = (60, 60, 60) if gen >= 8 else (85, 85, 85)  # ana yollar daha koyu
-        px = [((x - OX) * s, (H_M - (y - OY)) * s) for x, y in pts]
+        # kalibre cerceve: xm = (x-OX)+CAL_DX, ym = (y-OY)-CAL_DY
+        px = [((x - OX + CAL_DX) * s, (H_M - (y - OY - CAL_DY)) * s) for x, y in pts]
         # segment cizgileri + dugum noktalari (kose boslugu kalmasin)
         for a, b in zip(px, px[1:]):
             d.line([a, b], fill=renk, width=w_px)
