@@ -42,11 +42,11 @@ def en_yakin(c):
 
 # ---- OSM yollari: Overpass'ten cekilir, zemin dokusunun ustune cizilir ----
 # harita penceresi (harita_uret.py meta'sindan, carpisma.json ile ayni cerceve)
-OX, OY = 575867.03, 4388840.62  # UTM 35N min kose
+# SANATIN GERCEK ORJINI (22.10 olcumu): plan cizimi eski meta'nin iddiasinin
+# 40 m dogusunda + 184 m kuzeyinde. Yollar bu orijine gore cizilir — CAL yok.
+OX, OY = 575907.0, 4389025.0  # UTM 35N — sanatin gercek min kosesi
 W_M, H_M = 764.34, 600.0
-# 22.10.2026 saha kalibrasyonu (config.ts GPS_CAL ile AYNI): eski OSM ciziminin
-# "hizasizligi" yol verisinde degil cercevedeydi — kalibrasyonla birlikte dogru oturur.
-CAL_DX, CAL_DY = -40.0, 184.0
+CAL_DX, CAL_DY = 0.0, 0.0
 
 GENISLIK = {  # highway tipi -> yol genisligi (m)
     "motorway": 12, "trunk": 12, "primary": 10, "secondary": 8,

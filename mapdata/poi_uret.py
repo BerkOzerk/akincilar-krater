@@ -13,8 +13,8 @@ from pyproj import Transformer
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 URETIM = os.path.join(BASE, "uretim")
-OX, OY = 575867.03, 4388840.62  # carpisma orijin_utm (gercek UTM 35N)
-CAL_DX, CAL_DY = -40.0, 184.0  # 22.10 saha kalibrasyonu (config.ts GPS_CAL ile AYNI)
+OX, OY = 575907.0, 4389025.0  # sanatin gercek orijini (22.10 olcumu)
+CAL_DX, CAL_DY = 0.0, 0.0
 MH = 600.0
 MESAFE_M = 40.0  # kapiya bu mesafedeki isletmeler o binaya ait sayilir
 
