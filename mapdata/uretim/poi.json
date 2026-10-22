@@ -7,164 +7,224 @@
   {
    "ad": "Continental Balıkesir Merkez Lastik Bayi",
    "tip": "tyres",
-   "x_m": 330.62,
-   "y_m": 375.85
+   "x_m": 290.62,
+   "y_m": 191.85
+  },
+  {
+   "ad": "Acar Eczanesi",
+   "tip": "pharmacy",
+   "x_m": 632.19,
+   "y_m": 582.43
+  },
+  {
+   "ad": "Gökben Eczanesi",
+   "tip": "pharmacy",
+   "x_m": 635.02,
+   "y_m": 569.62
+  },
+  {
+   "ad": "Şok",
+   "tip": "supermarket",
+   "x_m": 638.57,
+   "y_m": 543.91
+  },
+  {
+   "ad": "A101",
+   "tip": "supermarket",
+   "x_m": 645.29,
+   "y_m": 497.35
+  },
+  {
+   "ad": "Tuğra Optik",
+   "tip": "optician",
+   "x_m": 666.54,
+   "y_m": 544.43
+  },
+  {
+   "ad": "Sancak Optik",
+   "tip": "optician",
+   "x_m": 664.18,
+   "y_m": 552.28
+  },
+  {
+   "ad": "Vatan Eczanesi",
+   "tip": "pharmacy",
+   "x_m": 658.82,
+   "y_m": 587.45
+  },
+  {
+   "ad": "Deniz Motosiklet",
+   "tip": "motorcycle",
+   "x_m": 591.43,
+   "y_m": 437.16
   },
   {
    "ad": "Burger King",
    "tip": "fast_food",
-   "x_m": 331.38,
-   "y_m": 223.47
+   "x_m": 291.38,
+   "y_m": 39.47
   },
   {
    "ad": "Motohan",
    "tip": "motorcycle",
-   "x_m": 692.96,
-   "y_m": 552.31
+   "x_m": 652.96,
+   "y_m": 368.31
   },
   {
    "ad": "2. Kolordu Çeşmesi",
    "tip": "water_point",
-   "x_m": 727.41,
-   "y_m": 553.57
-  },
-  {
-   "ad": "Fen Bilimleri Temel Lisesi Balıkesir",
-   "tip": "school",
-   "x_m": 7.87,
-   "y_m": 330.77
-  },
-  {
-   "ad": "İbrahim Terzi",
-   "tip": "tailor",
-   "x_m": -4.13,
-   "y_m": 399.59
+   "x_m": 687.41,
+   "y_m": 369.57
   },
   {
    "ad": "Kösem Tekel",
    "tip": "convenience",
-   "x_m": 103.0,
-   "y_m": 407.71
+   "x_m": 63.0,
+   "y_m": 223.71
   },
   {
    "ad": "Ziraat Bankası",
    "tip": "bank",
-   "x_m": 163.25,
-   "y_m": 302.79
+   "x_m": 123.25,
+   "y_m": 118.79
+  },
+  {
+   "ad": "Joker Motor",
+   "tip": "motorcycle",
+   "x_m": 579.45,
+   "y_m": 436.41
   },
   {
    "ad": "Manolya Çiçekçi",
    "tip": "florist",
-   "x_m": 490.98,
-   "y_m": 604.34
+   "x_m": 450.98,
+   "y_m": 420.34
+  },
+  {
+   "ad": "Yaman Motor",
+   "tip": "motorcycle",
+   "x_m": 447.51,
+   "y_m": 437.5
+  },
+  {
+   "ad": "Efe Motor",
+   "tip": "motorcycle",
+   "x_m": 483.84,
+   "y_m": 441.67
+  },
+  {
+   "ad": "Gülenç Motor",
+   "tip": "motorcycle",
+   "x_m": 510.92,
+   "y_m": 426.54
+  },
+  {
+   "ad": "Eymen Tekel Shop",
+   "tip": "convenience",
+   "x_m": 518.35,
+   "y_m": 427.66
+  },
+  {
+   "ad": "Günay Motor",
+   "tip": "motorcycle",
+   "x_m": 555.02,
+   "y_m": 446.79
+  },
+  {
+   "ad": "Formen Berber",
+   "tip": "hairdresser",
+   "x_m": 353.27,
+   "y_m": 480.79
+  },
+  {
+   "ad": "Manolya Erkek Kuaförü",
+   "tip": "hairdresser",
+   "x_m": 373.05,
+   "y_m": 489.88
+  },
+  {
+   "ad": "Kuaför Ceren",
+   "tip": "hairdresser",
+   "x_m": 398.84,
+   "y_m": 475.33
+  },
+  {
+   "ad": "Ferman Optik",
+   "tip": "optician",
+   "x_m": 635.97,
+   "y_m": 562.41
+  },
+  {
+   "ad": "Aydan Optik",
+   "tip": "optician",
+   "x_m": 636.7,
+   "y_m": 558.46
+  },
+  {
+   "ad": "Serkan Optik",
+   "tip": "optician",
+   "x_m": 627.22,
+   "y_m": 584.25
+  },
+  {
+   "ad": "Efe Eczanesi",
+   "tip": "pharmacy",
+   "x_m": 575.84,
+   "y_m": 590.46
+  },
+  {
+   "ad": "Işık Eczanesi",
+   "tip": "pharmacy",
+   "x_m": 476.37,
+   "y_m": 605.31
   },
   {
    "ad": "Karesi Cafe",
    "tip": "cafe",
-   "x_m": 393.61,
-   "y_m": 218.9
+   "x_m": 353.61,
+   "y_m": 34.9
   },
   {
    "ad": "Canan Eczanesi",
    "tip": "pharmacy",
-   "x_m": 334.06,
-   "y_m": 592.38
-  },
-  {
-   "ad": "Migros",
-   "tip": "supermarket",
-   "x_m": 0.88,
-   "y_m": 11.81
-  },
-  {
-   "ad": "Mid Plus Cafe",
-   "tip": "cafe",
-   "x_m": 3.3,
-   "y_m": 23.19
-  },
-  {
-   "ad": "Bayramefendi Osmanlı Kahvecisi",
-   "tip": "cafe",
-   "x_m": 102.64,
-   "y_m": 118.72
-  },
-  {
-   "ad": "Pizza Pizza",
-   "tip": "fast_food",
-   "x_m": 103.08,
-   "y_m": 94.07
-  },
-  {
-   "ad": "Rossmann",
-   "tip": "chemist",
-   "x_m": 103.72,
-   "y_m": 78.91
-  },
-  {
-   "ad": "Yücel Optik",
-   "tip": "optician",
-   "x_m": 17.91,
-   "y_m": 108.57
-  },
-  {
-   "ad": "Cankorur Eczanesi",
-   "tip": "pharmacy",
-   "x_m": 8.36,
-   "y_m": 145.78
-  },
-  {
-   "ad": "Elif",
-   "tip": "bakery",
-   "x_m": 21.11,
-   "y_m": 161.8
-  },
-  {
-   "ad": "Yves Rocher",
-   "tip": "cosmetics",
-   "x_m": 31.75,
-   "y_m": 164.34
-  },
-  {
-   "ad": "Berrak Kuru Temizleme",
-   "tip": "dry_cleaning",
-   "x_m": 13.76,
-   "y_m": 217.17
-  },
-  {
-   "ad": "Balikçi Korkmazlar",
-   "tip": "restaurant",
-   "x_m": 13.46,
-   "y_m": 285.92
-  },
-  {
-   "ad": "Güven Eczanesi",
-   "tip": "pharmacy",
-   "x_m": -2.35,
-   "y_m": 590.78
+   "x_m": 294.06,
+   "y_m": 408.38
   },
   {
    "ad": "Özmen Şule Eczanesi",
    "tip": "pharmacy",
-   "x_m": 282.06,
-   "y_m": 573.58
+   "x_m": 242.06,
+   "y_m": 389.58
+  },
+  {
+   "ad": "Yeni Ege Eczanesi",
+   "tip": "pharmacy",
+   "x_m": 375.23,
+   "y_m": 431.9
+  },
+  {
+   "ad": "Tunalılar Eczanesi",
+   "tip": "pharmacy",
+   "x_m": 677.33,
+   "y_m": 594.6
+  },
+  {
+   "ad": "Yeni Akdeniz Eczanesi",
+   "tip": "pharmacy",
+   "x_m": 553.38,
+   "y_m": 585.32
   },
   {
    "ad": "On On Kafe",
    "tip": "cafe",
-   "x_m": 289.54,
-   "y_m": 242.49
-  },
-  {
-   "ad": "Erkek Kuaförü İlhan ÇIVRACI",
-   "tip": "hairdresser",
-   "x_m": 705.16,
-   "y_m": 85.78
+   "x_m": 249.54,
+   "y_m": 58.49
   },
   {
    "ad": "BALIKESİR GÜRAY DEDEKTÖR",
    "tip": "electronics",
-   "x_m": 68.67,
-   "y_m": 240.43
+   "x_m": 28.67,
+   "y_m": 56.43
   }
  ]
 }

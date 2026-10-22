@@ -10,8 +10,15 @@
    "y_m": 472.68,
    "width_m": 1.0,
    "zone": "PL_KONUT_TICARET",
-   "baslik": "Konut + Ticaret",
-   "isletmeler": []
+   "baslik": "Günay Motor +4",
+   "isletmeler": [
+    "Günay Motor",
+    "Joker Motor",
+    "Eymen Tekel Shop",
+    "Gülenç Motor",
+    "Deniz Motosiklet"
+   ],
+   "tip": "motorcycle"
   },
   {
    "blok": 4,
@@ -37,8 +44,13 @@
    "y_m": 475.68,
    "width_m": 1.0,
    "zone": "PL_KONUT_TICARET",
-   "baslik": "Konut + Ticaret",
-   "isletmeler": []
+   "baslik": "A101 +2",
+   "isletmeler": [
+    "A101",
+    "Tuğra Optik",
+    "Şok"
+   ],
+   "tip": "supermarket"
   },
   {
    "blok": 9,
@@ -55,8 +67,11 @@
    "y_m": 184.48,
    "width_m": 1.0,
    "zone": "PL_KULTUREL_TESIS",
-   "baslik": "Kültürel Tesis",
-   "isletmeler": []
+   "baslik": "Continental Balıkesir Merkez Lastik Bayi",
+   "isletmeler": [
+    "Continental Balıkesir Merkez Lastik Bayi"
+   ],
+   "tip": "tyres"
   },
   {
    "blok": 12,
@@ -65,9 +80,7 @@
    "width_m": 1.0,
    "zone": "PL_TICARET",
    "baslik": "On On Kafe",
-   "isletmeler": [
-    "On On Kafe"
-   ],
+   "isletmeler": [],
    "tip": "cafe"
   },
   {
@@ -76,11 +89,11 @@
    "y_m": 339.78,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "Continental Balıkesir Merkez Lastik Bayi",
+   "baslik": "Canan Eczanesi",
    "isletmeler": [
-    "Continental Balıkesir Merkez Lastik Bayi"
+    "Canan Eczanesi"
    ],
-   "tip": "tyres"
+   "tip": "pharmacy"
   },
   {
    "blok": 14,
@@ -97,11 +110,12 @@
    "y_m": 509.08,
    "width_m": 1.0,
    "zone": "PL_KONUT",
-   "baslik": "Canan Eczanesi",
+   "baslik": "Formen Berber +1",
    "isletmeler": [
-    "Canan Eczanesi"
+    "Formen Berber",
+    "Manolya Erkek Kuaförü"
    ],
-   "tip": "pharmacy"
+   "tip": "hairdresser"
   },
   {
    "blok": 17,
@@ -118,12 +132,11 @@
    "y_m": 245.28,
    "width_m": 1.0,
    "zone": "PL_TICARET",
-   "baslik": "On On Kafe +1",
+   "baslik": "Continental Balıkesir Merkez Lastik Bayi",
    "isletmeler": [
-    "On On Kafe",
-    "Burger King"
+    "Continental Balıkesir Merkez Lastik Bayi"
    ],
-   "tip": "cafe"
+   "tip": "tyres"
   },
   {
    "blok": 19,
@@ -131,8 +144,13 @@
    "y_m": 521.48,
    "width_m": 1.0,
    "zone": "PL_KONUT",
-   "baslik": "Konut Alanı",
-   "isletmeler": []
+   "baslik": "Manolya Erkek Kuaförü +2",
+   "isletmeler": [
+    "Manolya Erkek Kuaförü",
+    "Formen Berber",
+    "Kuaför Ceren"
+   ],
+   "tip": "hairdresser"
   },
   {
    "blok": 20,
@@ -141,9 +159,7 @@
    "width_m": 1.0,
    "zone": "PL_KONUT",
    "baslik": "Özmen Şule Eczanesi",
-   "isletmeler": [
-    "Özmen Şule Eczanesi"
-   ],
+   "isletmeler": [],
    "tip": "pharmacy"
   },
   {
@@ -206,8 +222,12 @@
    "y_m": 533.48,
    "width_m": 1.0,
    "zone": "PL_KONUT",
-   "baslik": "Konut Alanı",
-   "isletmeler": []
+   "baslik": "Manolya Erkek Kuaförü +1",
+   "isletmeler": [
+    "Manolya Erkek Kuaförü",
+    "Kuaför Ceren"
+   ],
+   "tip": "hairdresser"
   },
   {
    "blok": 31,
@@ -216,9 +236,7 @@
    "width_m": 1.0,
    "zone": "PL_TICARET",
    "baslik": "Burger King",
-   "isletmeler": [
-    "Burger King"
-   ],
+   "isletmeler": [],
    "tip": "fast_food"
   },
   {
@@ -228,10 +246,7 @@
    "width_m": 1.0,
    "zone": "PL_TICARET",
    "baslik": "Karesi Cafe +1",
-   "isletmeler": [
-    "Karesi Cafe",
-    "Burger King"
-   ],
+   "isletmeler": [],
    "tip": "cafe"
   },
   {
@@ -241,9 +256,7 @@
    "width_m": 1.0,
    "zone": "PL_TICARET",
    "baslik": "Karesi Cafe",
-   "isletmeler": [
-    "Karesi Cafe"
-   ],
+   "isletmeler": [],
    "tip": "cafe"
   },
   {
@@ -262,9 +275,7 @@
    "width_m": 1.0,
    "zone": "PL_TICARET",
    "baslik": "Karesi Cafe",
-   "isletmeler": [
-    "Karesi Cafe"
-   ],
+   "isletmeler": [],
    "tip": "cafe"
   },
   {
@@ -283,9 +294,7 @@
    "width_m": 1.0,
    "zone": "PL_TICARET",
    "baslik": "Continental Balıkesir Merkez Lastik Bayi",
-   "isletmeler": [
-    "Continental Balıkesir Merkez Lastik Bayi"
-   ],
+   "isletmeler": [],
    "tip": "tyres"
   },
   {
@@ -358,9 +367,7 @@
    "width_m": 1.0,
    "zone": "PL_TICARET",
    "baslik": "On On Kafe",
-   "isletmeler": [
-    "On On Kafe"
-   ],
+   "isletmeler": [],
    "tip": "cafe"
   },
   {
@@ -370,9 +377,7 @@
    "width_m": 1.0,
    "zone": "PL_RESMI_KURUM",
    "baslik": "Kösem Tekel",
-   "isletmeler": [
-    "Kösem Tekel"
-   ],
+   "isletmeler": [],
    "tip": "convenience"
   },
   {
@@ -381,11 +386,12 @@
    "y_m": 569.28,
    "width_m": 1.0,
    "zone": "PL_KONUT",
-   "baslik": "Manolya Çiçekçi",
+   "baslik": "Yeni Akdeniz Eczanesi +1",
    "isletmeler": [
-    "Manolya Çiçekçi"
+    "Yeni Akdeniz Eczanesi",
+    "Efe Eczanesi"
    ],
-   "tip": "florist"
+   "tip": "pharmacy"
   },
   {
    "blok": 55,

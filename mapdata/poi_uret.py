@@ -14,6 +14,7 @@ from pyproj import Transformer
 BASE = os.path.dirname(os.path.abspath(__file__))
 URETIM = os.path.join(BASE, "uretim")
 OX, OY = 575867.03, 4388840.62  # carpisma orijin_utm (gercek UTM 35N)
+CAL_DX, CAL_DY = -40.0, 184.0  # 22.10 saha kalibrasyonu (config.ts GPS_CAL ile AYNI)
 MH = 600.0
 MESAFE_M = 40.0  # kapiya bu mesafedeki isletmeler o binaya ait sayilir
 
@@ -65,8 +66,8 @@ def _isle(data):
         if lat is None or lon is None:
             continue
         e_utm, n_utm = t_utm.transform(lon, lat)
-        x_m = e_utm - OX
-        y_m = n_utm - OY
+        x_m = e_utm - OX + CAL_DX
+        y_m = n_utm - OY - CAL_DY
         if not (-10 <= x_m <= 774 and -10 <= y_m <= 610):
             continue
         poi.append({"ad": ad, "tip": tags.get("shop") or tags.get("amenity") or "", "x_m": round(x_m, 2), "y_m": round(y_m, 2)})
