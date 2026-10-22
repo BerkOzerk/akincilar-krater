@@ -13,7 +13,7 @@ from PIL import Image, ImageDraw
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 URETIM = os.path.join(BASE, "uretim")
-ZEMIN = os.path.join(URETIM, "harita_zemin_gb.png")
+ZEMIN = os.path.join(URETIM, "harita_zemin_art.png")  # yolsuz sanat katmani (calibrasyon tabani)
 CIKTI_JSON = os.path.join(URETIM, "binalar.json")
 CIKTI_PNG = os.path.join(URETIM, "harita_zemin_b.png")
 PREVIEW = os.path.join(URETIM, "_preview", "binalar_preview.png")

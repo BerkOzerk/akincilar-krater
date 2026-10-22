@@ -141,7 +141,17 @@ def main(nosm=False, cikti=None):
         c = tuple(pal[3 * i:3 * i + 3])
         yeni += list(HARITA.get(c, en_yakin(c)))
     p.putpalette(yeni)
-    out = p.convert("RGB")
+    art = p.convert("RGB")
+    # SANAT katmani (yol YOK) — kullanici kalibrasyonu bunu kaydirir
+    art.save(os.path.join(BASE, "uretim", "harita_zemin_art.png"))
+    print("OK -> uretim/harita_zemin_art.png (sanat, yolsuz)")
+    # YOL katmani — ayri seffaf PNG (sabit kalir)
+    yollar = Image.new("RGBA", art.size, (0, 0, 0, 0))
+    if not nosm:
+        ciz_yollar(yollar)
+    yollar.save(os.path.join(BASE, "uretim", "harita_zemin_yollar.png"))
+    print("OK -> uretim/harita_zemin_yollar.png (yol katmani)")
+    out = art.copy()
     if not nosm:
         ciz_yollar(out)
     hedef = cikti or DST
